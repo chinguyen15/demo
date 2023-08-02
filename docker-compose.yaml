@@ -3,7 +3,6 @@ version: "3.9"
 services:
   svtt-infomation:
     build: .
-    command: uvicorn app.main:app --host 0.0.0.0 --port 6789 --workers 2
+    command: uvicorn app.main:app --host 0.0.0.0 --port 10000 --workers 2
     ports:
-      - 6789:6789
-
+      - 10000:10000
