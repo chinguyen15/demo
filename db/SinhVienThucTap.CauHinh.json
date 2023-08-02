@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "64ba22e92b557739ee2c5f97"
+  },
+  "type": "bot_token",
+  "value": ""
+},
+{
+  "_id": {
+    "$oid": "64ba244e2b557739ee2c5f98"
+  },
+  "type": "bot_chat_id",
+  "value": 0
+}]

@@ -1,0 +1,8 @@
+fastapi
+python-multipart
+jinja2
+uvicorn
+pymongo
+pyjwt
+pytelegrambotapi
+python-dateutil

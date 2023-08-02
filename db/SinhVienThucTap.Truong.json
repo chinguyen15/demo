@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "code": "CTU",
+  "name": "Đại học Cần Thơ"
+},
+{
+  "_id": {
+    "$oid": "64b63eac2b69b1d34cef87f7"
+  },
+  "code": "MKU",
+  "name": "Đại học Cửu Long"
+},
+{
+  "_id": {
+    "$oid": "64b63ee62b69b1d34cef87f9"
+  },
+  "code": "MTU",
+  "name": "Đại học Xây dựng Miền Tây"
+},
+{
+  "_id": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "code": "VLUTE",
+  "name": "Đại học Sư phạm Kỹ thuật Vĩnh Long"
+}]

@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Đăng nhập</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap');
+
+      h4{
+        font-family: 'Tilt Warp', cursive;
+      }
+    </style>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  </head>
+  <body style="background-color: #22272e;">
+    <nav class="navbar navbar-expand-lg bg-dark border-bottom border-bottom-dark sticky-top" data-bs-theme="dark">
+      <div class="container">
+        <a class="navbar-brand" href="#"><img src="{{ url_for('statics', path='images/VNPT_Logo.svg')}}" alt="VNPT Vĩnh Long" width="25px"> <span></span></a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+        </div>
+      </div>
+    </nav>
+    <div class="container mt-4">
+      <div class="col-md-6 mx-auto">
+        <div class="card">
+          <img src="{{ url_for('statics', path='images/banner.jpg')}}" class="card-img-top" alt="Header image">
+          <div class="card-body">
+            <figure>
+              <blockquote class="blockquote">
+                ĐĂNG NHẬP
+              </blockquote>
+            </figure>
+            <form id="login_form">
+              <div class="mb-3 row">
+                <label for="username" class="col-sm-3 col-form-label">Username</label>
+                <div class="col-sm-9">
+                  <input type="text" class="form-control" id="username" name="username">
+                </div>
+              </div>
+              <div class="mb-3 row">
+                <label for="password" class="col-sm-3 col-form-label">Password</label>
+                <div class="col-sm-9">
+                  <input type="password" class="form-control" id="password" name="password">
+                </div>
+              </div>
+              <div class="mb-3 row">
+                <button type="button" id="login_btn" class="btn btn-primary col-sm-3 mx-auto"> LOGIN </button>
+              </div>
+            </form>
+            <script>
+              $(document).ready(function(){
+                $("#login_btn").click(function(e){
+                  e.preventDefault()
+                  let data = JSON.stringify({'username': $("#username").val(), 'password': $("#password").val()})
+
+                  $.ajax({
+                    url: 'login',
+                    type: 'POST',
+                    data: data,
+                    headers: {
+                      "accept": "application/json",
+                      "Content-Type": "application/json"
+                    },
+                    success: function(response){
+                      localStorage.setItem('token', response.token);
+                      window.location.headers={
+                          "Authorization": "Bearer " + response.token
+                      };
+                      window.location.href = '/';
+                    },
+                    error: function(xhr, status, error){
+                      console.log(error);
+                    }
+                  });
+                });
+              });
+            </script>
+          </div>
+        </div>
+      </div>
+    </div> 
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+  </body>
+</html>

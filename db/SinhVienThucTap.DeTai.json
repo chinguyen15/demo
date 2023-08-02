@@ -1,0 +1,207 @@
+[{
+  "_id": {
+    "$oid": "64b641ab2b69b1d34cef880f"
+  },
+  "name": "Website quản lý SVTT",
+  "descriptions": "Sử dụng FastAPI + Jinja2 + MongoDB [Python, NoSQL]\n- Form điền thông tin sinh viên\n- Form khảo sát, đánh giá ẩn danh của SV\n- Form chọn đề tài của SV\n- Dashboard:\n  + Thống kê, tìm kiếm sinh viên\n  + Xem danh sách đánh giá sinh viên\n  + Xem đánh giá của sinh viên về CTY",
+  "isDeleted": false,
+  "createdAt": 1690246133
+},
+{
+  "_id": {
+    "$oid": "64b641ab2b69b1d34cef8810"
+  },
+  "name": "Tool phát hành hỗ trợ phát hành HDDT",
+  "descriptions": "Sử dụng ElectronJS, ReactJS, TypeScript\n- Đọc dữ liệu từ file excel & đẩy lên service HDDT\n- Cấu hình column qua file JSON\n- Lưu log XML & log phát hành",
+  "isDeleted": false,
+  "createdAt": 1690246133
+},
+{
+  "_id": {
+    "$oid": "64b641ab2b69b1d34cef8811"
+  },
+  "name": "Website quản lý học phí sinh viên",
+  "descriptions": "Sử dụng ASP.NET / ASP.NET Core Web API \n+ MySQL/PHPAdmin \n- Đăng nhập \n- Form đăng ký học phần của sinh viên \n- Form xem Website quản lý học phí sinh viênhọc phí trong kỳ của sinh viên \n- Form thanh toán học phí (online và offline) \n- Form thời khóa biểu sinh viên \n- Danh mục dùng chung \n- Quản lý thông tin sinh viên, kỳ, học phần,... \n- Thống kê học phí theo học kỳ,... \n- Dashboard: \n  + Thông báo của lịch học \n  + Biểu đồ lượng đăng ký theo ngày, giờ, học kỳ,....",
+  "isDeleted": false,
+  "createdAt": 1690246133
+},
+{
+  "_id": {
+    "$oid": "64b641ab2b69b1d34cef8812"
+  },
+  "name": "Thiết kế giao diện app khiếu nại tố cáo",
+  "descriptions": "Sử dụng Flutter: \n-Đăng nhập \n-Dashboard \n-Tra cứu đơn thư \n-Danh sách đơn thư \n-Thông báo",
+  "isDeleted": false,
+  "createdAt": 1690246133
+},
+{
+  "_id": {
+    "$oid": "64b89386eea6d8fa0c62f636"
+  },
+  "descriptions": "Phát triển, kiểm thử nhóm chức năng quản lý Lịch công tác",
+  "name": "Phát triển, kiểm thử nhóm chức năng quản lý Lịch công tác",
+  "isDeleted": false,
+  "createdAt": 1690246133
+},
+{
+  "_id": {
+    "$oid": "64b8938beea6d8fa0c62f637"
+  },
+  "descriptions": "Website quản lý đặt đồ ăn",
+  "name": "Website quản lý đặt đồ ăn",
+  "isDeleted": false,
+  "createdAt": 1690246133
+},
+{
+  "_id": {
+    "$oid": "64b89392eea6d8fa0c62f638"
+  },
+  "descriptions": "Website Thương mại điên tử bán sản phẩm điện tử",
+  "name": "Website Thương mại điên tử bán sản phẩm điện tử",
+  "isDeleted": false,
+  "createdAt": 1690246133
+},
+{
+  "_id": {
+    "$oid": "64b8939beea6d8fa0c62f639"
+  },
+  "descriptions": "Website Thương mại điện tử bán thực phẩm bổ sung",
+  "name": "Website Thương mại điện tử bán thực phẩm bổ sung",
+  "isDeleted": false,
+  "createdAt": 1690246133
+},
+{
+  "_id": {
+    "$oid": "64b893a0eea6d8fa0c62f63a"
+  },
+  "descriptions": " App mobile phát hành biên lai",
+  "name": " App mobile phát hành biên lai",
+  "isDeleted": false,
+  "createdAt": 1690246133
+},
+{
+  "_id": {
+    "$oid": "64b893a9eea6d8fa0c62f63b"
+  },
+  "descriptions": "App mobile bán thức ăn",
+  "name": "App mobile bán thức ăn",
+  "isDeleted": false,
+  "createdAt": 1690246133
+},
+{
+  "_id": {
+    "$oid": "64b893aeeea6d8fa0c62f63c"
+  },
+  "descriptions": "Speech to text",
+  "name": "Speech to text",
+  "isDeleted": false,
+  "createdAt": 1690246133
+},
+{
+  "_id": {
+    "$oid": "64b893b5eea6d8fa0c62f63d"
+  },
+  "descriptions": "Hệ thống IoT giám sát nhà kính thông minh kết nối webhost và thông báo qua Telegram",
+  "name": "Hệ thống IoT giám sát nhà kính thông minh kết nối webhost và thông báo qua Telegram",
+  "isDeleted": false,
+  "createdAt": 1690246133
+},
+{
+  "_id": {
+    "$oid": "64b893bbeea6d8fa0c62f63e"
+  },
+  "descriptions": "Hệ thống đo, ghi nhận và cảnh báo nhiệt độ, độ ẩm qua Telegram",
+  "name": "Hệ thống đo, ghi nhận và cảnh báo nhiệt độ, độ ẩm qua Telegram",
+  "isDeleted": false,
+  "createdAt": 1690246133
+},
+{
+  "_id": {
+    "$oid": "64b893c0eea6d8fa0c62f63f"
+  },
+  "descriptions": "Đọc tem tải trọng xe ô tô tải qua camera",
+  "name": "Đọc tem tải trọng xe ô tô tải qua camera",
+  "isDeleted": false,
+  "createdAt": 1690246133
+},
+{
+  "_id": {
+    "$oid": "64b897d7452396b621f57281"
+  },
+  "name": "Quản lý đi công tác",
+  "descriptions": "Quản lý đi công tác",
+  "isDeleted": false,
+  "createdAt": 1690246133
+},
+{
+  "_id": {
+    "$oid": "64b897e5452396b621f57282"
+  },
+  "name": "Quản lý hợp đồng",
+  "descriptions": "Quản lý hợp đồng\n",
+  "isDeleted": false,
+  "createdAt": 1690246133
+},
+{
+  "_id": {
+    "$oid": "64b897f2452396b621f57283"
+  },
+  "name": "Công cụ hỗ trợ số hóa hồ sơ và tìm kiếm: OCR, Elasticsearch",
+  "descriptions": "Công cụ hỗ trợ số hóa hồ sơ và tìm kiếm: OCR, Elasticsearch",
+  "isDeleted": false,
+  "createdAt": 1690246133
+},
+{
+  "_id": {
+    "$oid": "64bf4652743cb764171ccfa4"
+  },
+  "name": "Thử",
+  "descriptions": "Thử",
+  "isDeleted": true,
+  "createdAt": 1690256979
+},
+{
+  "_id": {
+    "$oid": "64bf46eb743cb764171ccfa5"
+  },
+  "name": "Thử cái nữa nè",
+  "descriptions": "Thử nghe",
+  "isDeleted": true,
+  "createdAt": 1690257132
+},
+{
+  "_id": {
+    "$oid": "64bf4740743cb764171ccfa6"
+  },
+  "name": "Thử nghe",
+  "descriptions": "a",
+  "isDeleted": true,
+  "createdAt": 1690257217
+},
+{
+  "_id": {
+    "$oid": "64bf4760743cb764171ccfa7"
+  },
+  "name": "Thử 1",
+  "descriptions": "a",
+  "isDeleted": true,
+  "createdAt": 1690257248
+},
+{
+  "_id": {
+    "$oid": "64bf4765743cb764171ccfa8"
+  },
+  "name": "Thử 2",
+  "descriptions": "a",
+  "isDeleted": true,
+  "createdAt": 1690257254
+},
+{
+  "_id": {
+    "$oid": "64bf47e3743cb764171ccfa9"
+  },
+  "name": "Thêm thử",
+  "descriptions": "1",
+  "isDeleted": true,
+  "createdAt": 1690257379
+}]

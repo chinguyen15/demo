@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "64b641e32b69b1d34cef8815"
+  },
+  "fullname": "Phan Thanh Giảng",
+  "department": "Phòng GP CNTT 2",
+  "title": "Nhân viên Giải pháp CNTT"
+},
+{
+  "_id": {
+    "$oid": "64b641e32b69b1d34cef8816"
+  },
+  "fullname": "Nguyễn Công Lượng",
+  "department": "Phòng GP CNTT 1",
+  "title": "Nhân viên Giải pháp CNTT"
+},
+{
+  "_id": {
+    "$oid": "64b641e32b69b1d34cef8817"
+  },
+  "fullname": "Phan Thế Anh",
+  "department": "Phòng GP CNTT 1",
+  "title": "Nhân viên Giải pháp CNTT"
+},
+{
+  "_id": {
+    "$oid": "64b641e32b69b1d34cef8818"
+  },
+  "fullname": "Nguyễn Thanh Lâm",
+  "department": "Phòng GP CNTT 1",
+  "title": "Nhân viên Giải pháp CNTT"
+},
+{
+  "_id": {
+    "$oid": "64b641e32b69b1d34cef8819"
+  },
+  "fullname": "Trần Bình An",
+  "department": "Phòng GP CNTT 1",
+  "title": "Nhân viên Giải pháp CNTT"
+},
+{
+  "_id": {
+    "$oid": "64b641e32b69b1d34cef881a"
+  },
+  "fullname": "Lê Hữu Hậu",
+  "department": "Phòng GP CNTT 1",
+  "title": "Nhân viên Giải pháp CNTT"
+},
+{
+  "_id": {
+    "$oid": "64b641e32b69b1d34cef881b"
+  },
+  "fullname": "Nguyễn Đinh Gia Huy",
+  "department": "Phòng GP CNTT 1",
+  "title": "Nhân viên Giải pháp CNTT"
+},
+{
+  "_id": {
+    "$oid": "64b641e32b69b1d34cef881c"
+  },
+  "fullname": "Lưu Vĩnh Phúc",
+  "department": "Phòng Kinh doanh",
+  "title": "Nhân viên Giải pháp CNTT"
+},
+{
+  "_id": {
+    "$oid": "64b641e32b69b1d34cef881d"
+  },
+  "fullname": "Đặng Như Bách",
+  "department": "Phòng Kinh doanh",
+  "title": "Phó trưởng phòng Kinh doanh"
+}]

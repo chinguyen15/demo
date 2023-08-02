@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "64ba0019bf1394355f0f4e62"
+  },
+  "user": "giangpt",
+  "action": "Get data to drawing chart",
+  "result": "success",
+  "createdAt": 1689911322
+},
+{
+  "_id": {
+    "$oid": "64ba1ec5bf1394355f0f4e63"
+  },
+  "user": "giangpt",
+  "action": "Get data to drawing chart",
+  "result": "success",
+  "createdAt": 1689919174
+},
+{
+  "_id": {
+    "$oid": "64ba3ad5b936e71393d271cd"
+  },
+  "user": "giangpt",
+  "action": "Get data to drawing chart",
+  "result": "success",
+  "createdAt": 1689926357
+},
+{
+  "_id": {
+    "$oid": "64ba3befcba92440c8cb4b0c"
+  },
+  "user": "giangpt",
+  "action": "Get data to drawing chart",
+  "result": "success",
+  "createdAt": 1689926640
+},
+{
+  "_id": {
+    "$oid": "64ba44c0b936e71393d271ce"
+  },
+  "user": "giangpt",
+  "action": "Get data to drawing chart",
+  "result": "success",
+  "createdAt": 1689928896
+},
+{
+  "_id": {
+    "$oid": "64ba44cdb936e71393d271cf"
+  },
+  "user": "giangpt",
+  "action": "Get data to drawing chart",
+  "result": "success",
+  "createdAt": 1689928909
+},
+{
+  "_id": {
+    "$oid": "64bdce48cba92440c8cb4b0d"
+  },
+  "user": "giangpt",
+  "action": "Get data to drawing chart",
+  "result": "success",
+  "createdAt": 1690160713
+},
+{
+  "_id": {
+    "$oid": "64be230e4e29cc8e5dab443d"
+  },
+  "user": "giangpt",
+  "action": "Get data to drawing chart",
+  "result": "success",
+  "createdAt": 1690182415
+},
+{
+  "_id": {
+    "$oid": "64be2d02c0b99bbe1e16d236"
+  },
+  "user": "giangpt",
+  "action": "Get data to drawing chart",
+  "result": "success",
+  "createdAt": 1690184963
+},
+{
+  "_id": {
+    "$oid": "64bf11524d6ec8c3b9b6637f"
+  },
+  "user": "giangpt",
+  "action": "Get data to drawing chart",
+  "result": "success",
+  "createdAt": 1690243411
+}]

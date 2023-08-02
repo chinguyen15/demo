@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Thông tin SVTT</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap');
+
+      h4{
+        font-family: 'Tilt Warp', cursive;
+      }
+    </style>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  </head>
+  <body style="background-color: #22272e;">
+    <nav class="navbar navbar-expand-lg bg-dark border-bottom border-bottom-dark sticky-top" data-bs-theme="dark">
+      <div class="container">
+        <a class="navbar-brand" href="#"><img src="{{ url_for('statics', path='images/VNPT_Logo.svg')}}" alt="VNPT Vĩnh Long" width="25px"> <span></span></a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item dropdown">
+              <button class="btn btn-dark dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+                Nhóm thực tập
+              </button>
+              <ul class="dropdown-menu dropdown-menu-dark">
+                <li><a class="dropdown-item" href="/dsnhom">Danh sách nhóm</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <div class="container mt-4">
+      <div class="col-md-6 mx-auto">
+        <div class="card">
+          <img src="{{ url_for('statics', path='images/banner.jpg')}}" class="card-img-top" alt="Header image">
+          <div class="card-body">
+            <figure>
+              <blockquote class="blockquote">
+                THÔNG TIN SINH VIÊN THỰC TẬP
+              </blockquote>
+              <figcaption class="blockquote-footer" style="color: red;">
+                Các trường có dấu * là bắt buộc điền
+              </figcaption>
+            </figure>
+            <form id="svtt_form">
+              <div class="mb-3 row">
+                <label for="mssv" class="col-sm-3 col-form-label">MSSV <span style="color: red;">*</span></label>
+                <div class="col-sm-9">
+                  <input type="text" class="form-control" id="mssv">
+                </div>
+              </div>
+              <div class="mb-3 row">
+                <label for="hotensv" class="col-sm-3 col-form-label">Họ tên <span style="color: red;">*</span></label>
+                <div class="col-sm-9">
+                  <input type="text" class="form-control" id="hotensv">
+                </div>
+              </div>
+              <div class="mb-3 row">
+                <label for="sdtsv" class="col-sm-3 col-form-label">SĐT <span style="color: red;">*</span></label>
+                <div class="col-sm-9">
+                  <input type="number" class="form-control" id="sdtsv">
+                </div>
+              </div>
+              <div class="mb-3 row">
+                <label for="emailsv" class="col-sm-3 col-form-label">Email</label>
+                <div class="col-sm-9">
+                  <input type="email" class="form-control" id="emailsv">
+                </div>
+              </div>
+              <div class="mb-3 row">
+                <label for="diachisv" class="col-sm-3 col-form-label">Địa chỉ <span style="color: red;">*</span></label>
+                <div class="col-sm-9">
+                  <input type="text" name="diachisv" id="diachisv" class="form-control">
+                </div>
+              </div>
+              <div class="mb-3 row">
+                <label for="truongsv" class="col-sm-3 col-form-label">Trường <span style="color: red;">*</span></label>
+                <div class="col-sm-9">
+                  <select class="form-control" id="truongsv">
+                    {% for truong in ds_truong %}
+                      <option value="{{ truong.id }}">{{ truong.code }} - {{ truong.name }}</option>
+                    {% endfor %}
+                  </select>
+                </div>
+              </div>
+              <div class="mb-3 row">
+                <label for="chuyennganhsv" class="col-sm-3 col-form-label">Ngành <span style="color: red;">*</span></label>
+                <div class="col-sm-9">
+                  <select class="form-control" id="chuyennganhsv">
+                    {% for i in  ds_nganh %}
+                      <option value="{{ i.id }}">{{ i.name }}</option>
+                    {% endfor %}
+                  </select>
+                </div>
+              </div>
+              <div class="mb-3 row">
+                <label for="khoasv" class="col-sm-3 col-form-label">Khóa</label>
+                <div class="col-sm-9">
+                  <input type="number" class="form-control" id="khoasv">
+                </div>
+              </div>
+              <div class="mb-3 row">
+                <button type="submit" id="submit_btn" class="btn btn-primary col-sm-3 mx-auto"> SUBMIT </button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div> 
+    <script src="{{ url_for('statics', path='js/index.js')}}"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+  </body>
+</html>

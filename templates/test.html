@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>404</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+
+      h3{
+        font-family: 'Yeseva One', cursive;
+        text-align: center;
+        color: rgba(0, 0, 0, 0.85);
+      }
+    </style>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- sweetalert2 -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <!-- DATATABLE -->
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.5/css/jquery.dataTables.css" />
+    <script src="https://cdn.datatables.net/1.13.5/js/jquery.dataTables.js"></script>
+    <!-- CHARTJS -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.3.0/chart.min.js" integrity="sha512-mlz/Fs1VtBou2TrUkGzX4VoGvybkD9nkeXWJm3rle0DPHssYYx4j+8kIS15T78ttGfmOjH0lLaBXGcShaVkdkg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  </head>
+  <body>
+    <div class="container mt-auto">
+      <div class="col-sm-10 mx-auto row">
+        <!-- Button trigger modal -->
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+            Launch demo modal
+        </button>
+        
+        <!-- Modal -->
+        <div class="modal fade" id="edit'+i.id+'Modal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <form id="form_'+i.id+'" class="form-control">
+                        <div class="modal-header">
+                            <h1 class="modal-title fs-5" id="exampleModalLabel">Cập nhật đề tài</h1>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                            <div class="mb-3 row">
+                                <label for="name_'+i.id+'" class="col-sm-3 col-form-label">Tên đề tài</label>
+                                <div class="col-sm-9">
+                                <input type="text" class="form-control" id="name_'+i.id+'" value="'+i.name+'">
+                                </div>
+                            </div>
+                            <div class="mb-3 row">
+                                <label for="descriptions_'+i.id+" class="col-sm-3 col-form-label">Mô tả</label>
+                                <div class="col-sm-9">
+                                <textarea name="descriptions_'+i.id+" id="descriptions_'+i.id+" class="form-control" rows="10">'+i.descriptions+'</textarea>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-success" id="button_'+i.id+'"><i class="fa-solid fa-floppy-disk"></i> Cập nhật</button>
+                        </div>
+                    </form>
+                    <script>
+                        $(document).ready(function(){
+                            $("#button_'+id+'").click(function(e){
+                                e.preventDefault();
+                                let name = $("#name_'+i.id+'").val();
+                                let descriptions = $("#descriptions_'+i.id+'").val();
+                                let data = JSON.stringify({"id": '+i.id+', "name": name, "descriptions": descriptions, "isDeleted": false});
+                                $.ajax({
+                                    url: "capnhatdetaithuctap",
+                                    type: "POST",
+                                    data: data,
+                                    headers:  {
+                                        "accept": "application/json",
+                                        "Content-Type": "application/json",
+                                        "Authorization": "Bearer " + localStorage.getItem("token")
+                                    },
+                                    success: function(res){
+                                        toastMixin.fire({
+                                            animation: true,
+                                            title: "Cập nhật thành công"
+                                        });
+                                    },
+                                    error: function(xhr, status, error){
+                                        toastMixin.fire({
+                                            animation: true,
+                                            icon: "error",
+                                            title: "Cập nhật không thành công"
+                                        });
+                                    }
+                                });
+                            });
+                        });
+                    </script>
+                </div>
+            </div>
+        </div>
+
+      </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+  </body>
+</html>

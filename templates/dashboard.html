@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>DASHBOARD | HTQL SVTT</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+  
+        h3{
+          font-family: 'Yeseva One', cursive;
+          /* text-align: center; */
+          color: rgba(0, 0, 0, 0.85);
+        }
+    </style>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- sweetalert2 -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <!-- DATATABLE -->
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.5/css/jquery.dataTables.css" />
+    <script src="https://cdn.datatables.net/1.13.5/js/jquery.dataTables.js"></script>
+    <!-- CHARTJS -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.3.0/chart.min.js" integrity="sha512-mlz/Fs1VtBou2TrUkGzX4VoGvybkD9nkeXWJm3rle0DPHssYYx4j+8kIS15T78ttGfmOjH0lLaBXGcShaVkdkg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <!-- SECURITY CHECK -->
+    <script src="{{ url_for('statics', path='js/security.js') }}"></script>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg bg-dark border-bottom border-bottom-dark sticky-top" data-bs-theme="dark">
+      <div class="container">
+        <a class="navbar-brand" href="#"><img src="{{ url_for('statics', path='images/VNPT_Logo.svg')}}" alt="VNPT Vĩnh Long" width="25px"> <span></span></a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+          
+        </div>
+      </div>
+    </nav>
+    <div class="container mt-4">
+      <div class="col-sm-10 mx-auto row"><h3>Tổng số {{ sv.total }} sinh viên</h3></div>
+      <div class="col-md-10 mx-auto row">
+        <div class="col-sm-5">
+            <canvas id="byMajorChart"></canvas>
+        </div>
+        <div class="col-sm-2"></div>
+        <div class="col-sm-5">
+            <canvas id="byCollegeChart"></canvas>
+        </div>
+      </div>
+      <div class="col-sm-10 mx-auto row">
+        <div class="col-sm-12 mx-auto">
+            <canvas id="byAvgPointChart"></canvas>
+        </div>
+      </div>
+      <div class="col-sm-10 mx-auto mt-4 row">
+        <div class="card">
+            <div class="card-body">
+              <form class="row">
+                <h3 style="text-align: center;" class="mb-3">Tìm kiếm sinh viên</h3>
+                <div class="mb-3 col-sm-6 row">
+                    <label for="student_id" class="col-sm-3 col-form-label">MSSV</label>
+                    <div class="col-sm-9">
+                      <input type="text" class="form-control" id="student_id">
+                    </div>
+                </div>
+                <div class="mb-3 col-sm-6 ms-auto row">
+                    <label for="student_fullname" class="col-sm-3 col-form-label">Họ tên</label>
+                    <div class="col-sm-9">
+                      <input type="text" class="form-control" id="student_fullname">
+                    </div>
+                </div>
+                <div class="mb-3 col-sm-6 row">
+                    <label for="student_phone_number" class="col-sm-3 col-form-label">SĐT</label>
+                    <div class="col-sm-9">
+                      <input type="number" class="form-control" id="student_phone_number">
+                    </div>
+                </div>
+                <div class="mb-3 col-sm-6 ms-auto row">
+                    <label for="student_address" class="col-sm-3 col-form-label">Địa chỉ</label>
+                    <div class="col-sm-9">
+                      <input type="text" class="form-control" id="student_address">
+                    </div>
+                </div>
+                <div class="mb-3 col-sm-6 row">
+                    <label for="student_major" class="col-sm-3 col-form-label">Ngành</label>
+                    <div class="col-sm-9">
+                      <select class="form-control" id="student_major">
+                        <option value="" selected>Tất cả</option>
+                        {% for i in majors %}
+                            <option value="{{ i.id }}">{{ i.name }}</option>
+                        {% endfor %}
+                      </select>
+                    </div>
+                </div>
+                <div class="mb-3 col-sm-6 ms-auto row">
+                    <label for="student_college" class="col-sm-3 col-form-label">Trường</label>
+                    <div class="col-sm-9">
+                      <select class="form-control" id="student_college">
+                        <option value="" selected>Tất cả</option>
+                        {% for i in colleges %}
+                            <option value="{{ i.id }}">{{ i.name }}</option>
+                        {% endfor %}
+                      </select>
+                    </div>
+                </div>
+                <div class="mb-3 col-sm-6 row">
+                    <label for="student_internship" class="col-sm-3 col-form-label">Kỳ TT</label>
+                    <div class="col-sm-9">
+                      <select class="form-control" id="student_internship">
+                        <option value="" selected>Tất cả</option>
+                        {% for i in internships %}
+                            <option value="{{ i.id }}">{{ i.name }}</option>
+                        {% endfor %}
+                      </select>
+                    </div>
+                </div>
+                <div class="mb-3 col-sm-6 ms-auto row">
+                </div>
+                <div class="mb-3 row">
+                    <button class="btn btn-success mx-auto col-sm-4" id="findBtn"><i class="fa-solid fa-magnifying-glass"></i> Tìm</button>
+                </div>
+              </form>
+            </div>
+        </div>
+        <table class="table table-hover mt-4 mb-3" id="listOfStudentTable">
+            <thead>
+                <tr>
+                    <th>MSSV</th>
+                    <th>Họ tên</th>
+                    <th>Ngành</th>
+                    <th>Trường</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+      </div>
+    </div>
+    <script src="{{ url_for('statics', path='js/dashboard.js') }}"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+  </body>
+</html>

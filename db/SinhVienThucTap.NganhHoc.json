@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "64b640a82b69b1d34cef8802"
+  },
+  "code": "CNTT",
+  "name": "Công nghệ thông tin"
+},
+{
+  "_id": {
+    "$oid": "64b640d72b69b1d34cef8803"
+  },
+  "code": "CNTT_CLC",
+  "name": "Công nghệ thông tin (CLC)"
+},
+{
+  "_id": {
+    "$oid": "64b640e82b69b1d34cef8804"
+  },
+  "code": "HTTT",
+  "name": "Hệ thống thông tin"
+},
+{
+  "_id": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "code": "KTPM",
+  "name": "Kỹ thuật phần mềm"
+},
+{
+  "_id": {
+    "$oid": "64b641272b69b1d34cef880a"
+  },
+  "code": "KTPM_CLC",
+  "name": "Kỹ thuật phần mềm (CLC)"
+},
+{
+  "_id": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "code": "KHMT",
+  "name": "Khoa học máy tính"
+},
+{
+  "_id": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "code": "MMT",
+  "name": "Mạng máy tính & truyền thông dữ liệu"
+}]

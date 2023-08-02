@@ -1,0 +1,1580 @@
+[{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c492c"
+  },
+  "student_id": "B1910256",
+  "points": 97,
+  "hard_skills": "Tốt",
+  "soft_skills": "Tốt",
+  "notes": "97/100"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c492d"
+  },
+  "student_id": "B1910263",
+  "points": 95,
+  "hard_skills": "Tốt",
+  "soft_skills": "tốt",
+  "notes": "95/100"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c492e"
+  },
+  "student_id": "B1910164",
+  "points": 94,
+  "hard_skills": "Tốt",
+  "soft_skills": "Tốt",
+  "notes": "94/100"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c492f"
+  },
+  "student_id": "B1910352",
+  "points": 94,
+  "hard_skills": "Tốt",
+  "soft_skills": "Tốt",
+  "notes": "94/100"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c4930"
+  },
+  "student_id": "B1910391",
+  "points": 93,
+  "hard_skills": "Tốt",
+  "soft_skills": "Tốt",
+  "notes": "93/100"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c4931"
+  },
+  "student_id": "B1910623",
+  "points": 94,
+  "hard_skills": "Tốt",
+  "soft_skills": "Tốt",
+  "notes": "94/100"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c4932"
+  },
+  "student_id": "B1908384",
+  "points": 0,
+  "hard_skills": "",
+  "soft_skills": "",
+  "notes": ""
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c4933"
+  },
+  "student_id": "B1908367",
+  "points": 62,
+  "hard_skills": "Ổn",
+  "soft_skills": "Ổn",
+  "notes": "61.5/70"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c4934"
+  },
+  "student_id": "B1908392",
+  "points": 62,
+  "hard_skills": "Ổn",
+  "soft_skills": "Ổn",
+  "notes": "62/70"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c4935"
+  },
+  "student_id": "B1908369",
+  "points": 62,
+  "hard_skills": "Ổn",
+  "soft_skills": "Ổn",
+  "notes": "61.5/70"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c4936"
+  },
+  "student_id": "B1910628",
+  "points": 66,
+  "hard_skills": "Tốt",
+  "soft_skills": "Tốt",
+  "notes": "66/70"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c4937"
+  },
+  "student_id": "B1910611",
+  "points": 65,
+  "hard_skills": "Tốt",
+  "soft_skills": "Tốt",
+  "notes": "65/70"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c4938"
+  },
+  "student_id": "B1910654",
+  "points": 65,
+  "hard_skills": "Tốt",
+  "soft_skills": "Tốt",
+  "notes": "65/70"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c4939"
+  },
+  "student_id": "B1910672",
+  "points": 65,
+  "hard_skills": "Tốt",
+  "soft_skills": "Tốt",
+  "notes": "65/70"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c493a"
+  },
+  "student_id": "B1909907",
+  "points": 65,
+  "hard_skills": "Tốt",
+  "soft_skills": "Tốt",
+  "notes": "65/70"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c493b"
+  },
+  "student_id": "B1913330",
+  "points": 66,
+  "hard_skills": "Tốt",
+  "soft_skills": "Tạm ổn",
+  "notes": "66/70"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c493c"
+  },
+  "student_id": "B1913266",
+  "points": 62,
+  "hard_skills": "Tốt",
+  "soft_skills": "Ổn",
+  "notes": "62/70"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c493d"
+  },
+  "student_id": "B1913307",
+  "points": 59,
+  "hard_skills": "Ổn",
+  "soft_skills": "Ổn",
+  "notes": "59/70"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c493e"
+  },
+  "student_id": "B1913263",
+  "points": 62,
+  "hard_skills": "Ổn",
+  "soft_skills": "Tạm ổn",
+  "notes": "62/70"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c493f"
+  },
+  "student_id": "B1913313",
+  "points": 61,
+  "hard_skills": "Ổn",
+  "soft_skills": "Ổn",
+  "notes": "61/70"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c4940"
+  },
+  "student_id": "B1910536",
+  "points": 64,
+  "hard_skills": "Tốt",
+  "soft_skills": "Tốt",
+  "notes": "64/70"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c4941"
+  },
+  "student_id": "B1910563",
+  "points": 67,
+  "hard_skills": "Tốt",
+  "soft_skills": "Tốt",
+  "notes": "67/70"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c4942"
+  },
+  "student_id": "B1908398",
+  "points": 60,
+  "hard_skills": "Ổn",
+  "soft_skills": "Ổn",
+  "notes": "60/70"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c4943"
+  },
+  "student_id": "B1910607",
+  "points": 59,
+  "hard_skills": "Tạm ổn",
+  "soft_skills": "Tạm ổn",
+  "notes": "59/70"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c4944"
+  },
+  "student_id": "B1910522",
+  "points": 60,
+  "hard_skills": "Ổn",
+  "soft_skills": "Ổn",
+  "notes": "60/70"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c4945"
+  },
+  "student_id": "B1908382",
+  "points": 0,
+  "hard_skills": "",
+  "soft_skills": "",
+  "notes": ""
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c4946"
+  },
+  "student_id": "B1908358",
+  "points": 61,
+  "hard_skills": "Ổn",
+  "soft_skills": "Tốt",
+  "notes": "60.5/70"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c4947"
+  },
+  "student_id": "B1908336",
+  "points": 61,
+  "hard_skills": "Ổn",
+  "soft_skills": "Tốt",
+  "notes": "60.5/70"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c4948"
+  },
+  "student_id": "B1908319",
+  "points": 61,
+  "hard_skills": "Ổn",
+  "soft_skills": "Tốt",
+  "notes": "60.5/70"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c4949"
+  },
+  "student_id": "B1910128",
+  "points": 67,
+  "hard_skills": "Có tích cực, chủ động tìm hiểu để hoàn thành công việc được giao",
+  "soft_skills": "Tốt",
+  "notes": "67/70"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c494a"
+  },
+  "student_id": "B1910437",
+  "points": 67,
+  "hard_skills": "Tốt",
+  "soft_skills": "Tốt",
+  "notes": "67/70"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c494b"
+  },
+  "student_id": "B1910731",
+  "points": 65,
+  "hard_skills": "Tốt",
+  "soft_skills": "Tốt",
+  "notes": "65/70"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c494c"
+  },
+  "student_id": "B1909917",
+  "points": 61,
+  "hard_skills": "Ổn",
+  "soft_skills": "Ổn",
+  "notes": "61/70"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c494d"
+  },
+  "student_id": "B1910438",
+  "points": 61,
+  "hard_skills": "Ổn",
+  "soft_skills": "Ổn",
+  "notes": "61/70"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c494e"
+  },
+  "student_id": "B1909889",
+  "points": 61,
+  "hard_skills": "Ổn",
+  "soft_skills": "Ổn",
+  "notes": "61/70"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c494f"
+  },
+  "student_id": "B1910723",
+  "points": 61,
+  "hard_skills": "Ổn",
+  "soft_skills": "Ổn",
+  "notes": "61/70"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c4950"
+  },
+  "student_id": "B1910719",
+  "points": 61,
+  "hard_skills": "Ổn",
+  "soft_skills": "Ổn",
+  "notes": "61/70"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c4951"
+  },
+  "student_id": "B1910697",
+  "points": 61,
+  "hard_skills": "Ổn",
+  "soft_skills": "Ổn",
+  "notes": "61/70"
+},
+{
+  "_id": {
+    "$oid": "64b890fc82eb1fd5489c4952"
+  },
+  "student_id": "B1910700",
+  "points": 61,
+  "hard_skills": "",
+  "soft_skills": "",
+  "notes": ""
+},
+{
+  "_id": {
+    "$oid": "64b890fd82eb1fd5489c4953"
+  },
+  "student_id": "B1910680",
+  "points": 61,
+  "hard_skills": "",
+  "soft_skills": "",
+  "notes": ""
+},
+{
+  "_id": {
+    "$oid": "64b890fd82eb1fd5489c4954"
+  },
+  "student_id": "B1910711",
+  "points": 61,
+  "hard_skills": "",
+  "soft_skills": "",
+  "notes": ""
+},
+{
+  "_id": {
+    "$oid": "64b890fd82eb1fd5489c4955"
+  },
+  "student_id": "B1910411",
+  "points": 61,
+  "hard_skills": "ổn",
+  "soft_skills": "ổn",
+  "notes": "61/70"
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df12"
+  },
+  "student_id": "1",
+  "points": 90,
+  "hard_skills": "Hoàn thành đúng tiến độ, yêu cầu được giao.\nCó chủ động liên hệ khi gặp khó khăn.\nCần trao dồi kiến thức lập trình nếu muốn công tác ở vị trí lập trình phần mềm",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df13"
+  },
+  "student_id": "2",
+  "points": 90,
+  "hard_skills": "Hoàn thành đúng tiến độ, yêu cầu được giao.\nCó chủ động liên hệ khi gặp khó khăn.\nCần trao dồi kiến thức lập trình nếu muốn công tác ở vị trí lập trình phần mềm",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df14"
+  },
+  "student_id": "3",
+  "points": 90,
+  "hard_skills": "Hoàn thành đúng tiến độ, yêu cầu được giao.\nCó chủ động liên hệ khi gặp khó khăn.\nCần trao dồi kiến thức lập trình nếu muốn công tác ở vị trí lập trình phần mềm",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df15"
+  },
+  "student_id": "4",
+  "points": 90,
+  "hard_skills": "Hoàn thành đúng tiến độ, yêu cầu được giao.\nCó chủ động liên hệ khi gặp khó khăn.\nCần trao dồi kiến thức lập trình nếu muốn công tác ở vị trí lập trình phần mềm",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df16"
+  },
+  "student_id": "5",
+  "points": 80,
+  "hard_skills": "- Hoàn thành công việc được giao\n- Chủ động nghiên cứu ngôn ngữ mới\n- Có chủ động liện hệ khi gặp khó khăn\n- Có tư duy tốt trong việc thiết kế giao diện người dùng, tuy \nnhiên các chức năng thì vẫn chưa được chỉnh chu, cần trao dồi thêm",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df17"
+  },
+  "student_id": "6",
+  "points": 80,
+  "hard_skills": "- Hoàn thành công việc được giao \n- Chủ động nghiên cứu ngôn ngữ mới \n- Có chủ động liện hệ khi gặp khó khăn \n- Có tư duy tốt trong việc thiết kế giao diện người dùng, tuy \nnhiên các chức năng thì vẫn chưa được chỉnh chu, cần trao \ndồi thêm",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df18"
+  },
+  "student_id": "7",
+  "points": 80,
+  "hard_skills": "- Hoàn thành công việc được giao \r\n- Chủ động nghiên cứu ngôn ngữ mới \r\n- Có chủ động liện hệ khi gặp khó khăn \r\n- Có tư duy tốt trong việc thiết kế giao diện người dùng, tuy \r\nnhiên các chức năng thì vẫn chưa được chỉnh chu, cần trao \r\ndồi thêm",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df19"
+  },
+  "student_id": "8",
+  "points": 80,
+  "hard_skills": "- Hoàn thành công việc được giao \n- Chủ động nghiên cứu ngôn ngữ mới \n- Có chủ động liện hệ khi gặp khó khăn \n- Có tư duy tốt trong việc thiết kế giao diện người dùng, tuy \nnhiên các chức năng thì vẫn chưa được chỉnh chu, cần trao \ndồi thêm",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df1a"
+  },
+  "student_id": "9",
+  "points": 80,
+  "hard_skills": "- Hoàn thành công việc được giao \n- Chủ động nghiên cứu ngôn ngữ mới \n- Có chủ động liện hệ khi gặp khó khăn \n- Có nghiên cứu tích hợp những tính năng như Paypal Business, Mail service vào sản phẩm, tuy nhiên giao diện website chưa thực sự trực quan",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df1b"
+  },
+  "student_id": "10",
+  "points": 80,
+  "hard_skills": "- Hoàn thành công việc được giao \r\n- Chủ động nghiên cứu ngôn ngữ mới \r\n- Có chủ động liện hệ khi gặp khó khăn \r\n- Có nghiên cứu tích hợp những tính năng như Paypal Business, Mail service vào sản phẩm, tuy nhiên giao diện website chưa thực sự trực quan",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df1c"
+  },
+  "student_id": "11",
+  "points": 80,
+  "hard_skills": "- Hoàn thành công việc được giao \n- Chủ động nghiên cứu ngôn ngữ mới \n- Có chủ động liện hệ khi gặp khó khăn \n- Có nghiên cứu tích hợp những tính năng như Paypal Business, Mail service vào sản phẩm, tuy nhiên giao diện website chưa thực sự trực quan",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df1d"
+  },
+  "student_id": "12",
+  "points": 80,
+  "hard_skills": "- Hoàn thành công việc được giao \r\n- Chủ động nghiên cứu ngôn ngữ mới \r\n- Có chủ động liện hệ khi gặp khó khăn \r\n- Có nghiên cứu tích hợp những tính năng như Paypal Business, Mail service vào sản phẩm, tuy nhiên giao diện website chưa thực sự trực quan",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df1e"
+  },
+  "student_id": "13",
+  "points": 90,
+  "hard_skills": "- Hoàn thành công việc được giao \n- Chủ động nghiên cứu công nghệ mới\n- Có chủ động làm việc nhóm\n- Tuân thủ tốt giờ giấc",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df1f"
+  },
+  "student_id": "14",
+  "points": 95,
+  "hard_skills": "- Hoàn thành công việc được giao \n- Chủ động nghiên cứu công nghệ mới\n- Có chủ động làm việc nhóm\n- Tuân thủ tốt giờ giấc",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df20"
+  },
+  "student_id": "15",
+  "points": 85,
+  "hard_skills": "- Hoàn thành công việc được giao \n- Chủ động nghiên cứu công nghệ mới\n- Có chủ động làm việc nhóm\n- Tuân thủ tốt giờ giấc",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df21"
+  },
+  "student_id": "16",
+  "points": 85,
+  "hard_skills": "- Hoàn thành công việc được giao \n- Chủ động nghiên cứu công nghệ mới\n- Có chủ động làm việc nhóm\n- Tuân thủ tốt giờ giấc",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df22"
+  },
+  "student_id": "17",
+  "points": 85,
+  "hard_skills": "- Hoàn thành công việc được giao \n- Chủ động nghiên cứu công nghệ mới\n- Có chủ động làm việc nhóm\n- Tuân thủ tốt giờ giấc",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df23"
+  },
+  "student_id": "18",
+  "points": 95,
+  "hard_skills": "- Hoàn thành công việc được giao \n- Chủ động nghiên cứu công nghệ mới\n- Có chủ động làm việc nhóm\n- Tuân thủ tốt giờ giấc",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df24"
+  },
+  "student_id": "19",
+  "points": 95,
+  "hard_skills": "- Hoàn thành công việc được giao \n- Chủ động nghiên cứu công nghệ mới\n- Có chủ động làm việc nhóm\n- Tuân thủ tốt giờ giấc",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df25"
+  },
+  "student_id": "20",
+  "points": 95,
+  "hard_skills": "- Hoàn thành công việc được giao \n- Chủ động nghiên cứu công nghệ mới\n- Có chủ động làm việc nhóm\n- Tuân thủ tốt giờ giấc",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df26"
+  },
+  "student_id": "21",
+  "points": 95,
+  "hard_skills": "- Hoàn thành công việc được giao \n- Chủ động nghiên cứu công nghệ mới\n- Có chủ động làm việc nhóm\n- Tuân thủ tốt giờ giấc",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df27"
+  },
+  "student_id": "22",
+  "points": 90,
+  "hard_skills": "- Hoàn thành công việc được giao \n- Chủ động nghiên cứu công nghệ mới\n- Có chủ động làm việc nhóm\n- Tuân thủ tốt giờ giấc",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df28"
+  },
+  "student_id": "23",
+  "points": 85,
+  "hard_skills": "- Cơ bản hoàn thành công việc được giao.\n- Có chủ động làm việc nhóm.\n- Có chủ động liện hệ khi gặp khó khăn tuy nhiên còn cần hỗ trợ nhiều.\n- Cần rèn luyện thêm kỹ năng lập trình và giải quyết vấn đề.",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df29"
+  },
+  "student_id": "24",
+  "points": 80,
+  "hard_skills": "- Cơ bản hoàn thành công việc được giao.\n- Có chủ động làm việc nhóm.\n- Có chủ động liện hệ khi gặp khó khăn tuy nhiên còn cần hỗ trợ nhiều.\n- Cần rèn luyện thêm kỹ năng lập trình và giải quyết vấn đề.",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df2a"
+  },
+  "student_id": "25",
+  "points": 85,
+  "hard_skills": "- Cơ bản hoàn thành công việc được giao.\n- Có chủ động làm việc nhóm.\n- Có chủ động liện hệ khi gặp khó khăn tuy nhiên còn cần hỗ trợ nhiều.\n- Cần rèn luyện thêm kỹ năng lập trình và giải quyết vấn đề.",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df2b"
+  },
+  "student_id": "26",
+  "points": 75,
+  "hard_skills": "- Cơ bản hoàn thành công việc được giao.\n- Có chủ động làm việc nhóm.\n- Có chủ động liện hệ khi gặp khó khăn tuy nhiên còn cần hỗ trợ nhiều.\n- Cần rèn luyện thêm kỹ năng lập trình và giải quyết vấn đề.",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df2c"
+  },
+  "student_id": "27",
+  "points": 75,
+  "hard_skills": "- Cơ bản hoàn thành công việc được giao.\n- Có chủ động làm việc nhóm.\n- Có chủ động liện hệ khi gặp khó khăn tuy nhiên còn cần hỗ trợ nhiều.\n- Cần rèn luyện thêm kỹ năng lập trình và giải quyết vấn đề.",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df2d"
+  },
+  "student_id": "28",
+  "points": 80,
+  "hard_skills": "- Cơ bản hoàn thành công việc được giao.\n- Có chủ động làm việc nhóm.\n- Có chủ động liện hệ khi gặp khó khăn tuy nhiên còn cần hỗ trợ nhiều.\n- Cần rèn luyện thêm kỹ năng lập trình và giải quyết vấn đề.",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df2e"
+  },
+  "student_id": "29",
+  "points": 95,
+  "hard_skills": "- Hoàn thành tốt nhiệm vụ trưởng nhóm, chủ động phân chia công việc, lên kế hoạch theo mô hình SCRUM.\n- Hoàn thành tốt công việc được giao.\n- Chủ động nghiên cứu ngôn ngữ, công nghệ mới.\n- Tinh thần tự học, thái độ làm việc tốt, siêng năng.",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df2f"
+  },
+  "student_id": "30",
+  "points": 90,
+  "hard_skills": "- Hoàn thành tốt các công việc được phân công, phát triển phần mềm theo mô hình SCRUM. \n- Phối hợp và làm việc nhóm tốt.\n- Chủ động nghiên cứu ngôn ngữ, công nghệ mới.\n- Tinh thần tự học, thái độ làm việc tốt, siêng năng.",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df30"
+  },
+  "student_id": "31",
+  "points": 95,
+  "hard_skills": "- Hoàn thành tốt các công việc được phân công, phát triển phần mềm theo mô hình SCRUM. \n- Phối hợp và làm việc nhóm tốt.\n- Chủ động nghiên cứu ngôn ngữ, công nghệ mới.\n- Tinh thần tự học, thái độ làm việc tốt, siêng năng.",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df31"
+  },
+  "student_id": "32",
+  "points": 90,
+  "hard_skills": "- Hoàn thành tốt các công việc được phân công, phát triển phần mềm theo mô hình SCRUM. \n- Phối hợp và làm việc nhóm tốt.\n- Chủ động nghiên cứu ngôn ngữ, công nghệ mới.\n- Tinh thần tự học, thái độ làm việc tốt, siêng năng.",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df32"
+  },
+  "student_id": "33",
+  "points": 80,
+  "hard_skills": "Hoàn thành đúng tiến độ, yêu cầu được giao.\nCó chủ động liên hệ khi gặp khó khăn.\nCần cải thiện khả năng học hỏi kiến thức mới.",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df33"
+  },
+  "student_id": "34",
+  "points": 80,
+  "hard_skills": "Hoàn thành đúng tiến độ, yêu cầu được giao.\nCó chủ động liên hệ khi gặp khó khăn.\nCần cải thiện khả năng học hỏi kiến thức mới.",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df34"
+  },
+  "student_id": "35",
+  "points": 80,
+  "hard_skills": "Hoàn thành đúng tiến độ, yêu cầu được giao.\nCó chủ động liên hệ khi gặp khó khăn.\nCần cải thiện khả năng học hỏi kiến thức mới.",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df35"
+  },
+  "student_id": "36",
+  "points": 80,
+  "hard_skills": "Hoàn thành đúng tiến độ, yêu cầu được giao.\nCó chủ động liên hệ khi gặp khó khăn.\nCần cải thiện khả năng học hỏi kiến thức mới.",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df36"
+  },
+  "student_id": "37",
+  "points": 75,
+  "hard_skills": "Hoàn thành công việc được giao.\nCó đóng góp với nhóm trong lúc thực tập",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df37"
+  },
+  "student_id": "38",
+  "points": 85,
+  "hard_skills": "Ổn",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df38"
+  },
+  "student_id": "39",
+  "points": 75,
+  "hard_skills": "Hoàn thành công việc được giao.\nChủ động liên lạc, có cố gắng tìm hiểu ngôn ngữ và công nghệ mới",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df39"
+  },
+  "student_id": "40",
+  "points": 75,
+  "hard_skills": "Hoàn thành công việc được giao.\nCó đóng góp với nhóm trong lúc thực tập",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df3a"
+  },
+  "student_id": "41",
+  "points": 75,
+  "hard_skills": "Hoàn thành công việc được giao.\nChủ động liên lạc, có cố gắng tìm hiểu ngôn ngữ và công nghệ mới",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b89352d72fe0b7af04df3b"
+  },
+  "student_id": "42",
+  "points": 70,
+  "hard_skills": "Tạm hoàn thành công việc được giao.\nThiếu chủ động, không tương tác trong quá trình thực tập.",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f80a"
+  },
+  "student_id": "20004244",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f80b"
+  },
+  "student_id": "20004052",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f80c"
+  },
+  "student_id": "20004148",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f80d"
+  },
+  "student_id": "20004019",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f80e"
+  },
+  "student_id": "20004179",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f80f"
+  },
+  "student_id": "20004124",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f810"
+  },
+  "student_id": "20004097",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f811"
+  },
+  "student_id": "20004129",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f812"
+  },
+  "student_id": "20004175",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f813"
+  },
+  "student_id": "20004185",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f814"
+  },
+  "student_id": "20004042",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f815"
+  },
+  "student_id": "20004013",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f816"
+  },
+  "student_id": "20004145",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f817"
+  },
+  "student_id": "20004070",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f818"
+  },
+  "student_id": "20004007",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f819"
+  },
+  "student_id": "20004029",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f81a"
+  },
+  "student_id": "20004100",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f81b"
+  },
+  "student_id": "20004059",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f81c"
+  },
+  "student_id": "20004046",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f81d"
+  },
+  "student_id": "20004106",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f81e"
+  },
+  "student_id": "20004135",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f81f"
+  },
+  "student_id": "20004212",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f820"
+  },
+  "student_id": "20004121",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f821"
+  },
+  "student_id": "20004001",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f822"
+  },
+  "student_id": "20004161",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f823"
+  },
+  "student_id": "20004033",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f824"
+  },
+  "student_id": "20004016",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f825"
+  },
+  "student_id": "20004193",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f826"
+  },
+  "student_id": "20004125",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f827"
+  },
+  "student_id": "20004214",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f828"
+  },
+  "student_id": "20004017",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f829"
+  },
+  "student_id": "20004078",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f82a"
+  },
+  "student_id": "20004223",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f82b"
+  },
+  "student_id": "20004107",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f82c"
+  },
+  "student_id": "20004034",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f82d"
+  },
+  "student_id": "20004027",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f82e"
+  },
+  "student_id": "20004246",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f82f"
+  },
+  "student_id": "20004168",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f830"
+  },
+  "student_id": "20004222",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f831"
+  },
+  "student_id": "20004206",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f832"
+  },
+  "student_id": "20004082",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f833"
+  },
+  "student_id": "20004066",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f834"
+  },
+  "student_id": "20004053",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f835"
+  },
+  "student_id": "20004009",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f836"
+  },
+  "student_id": "20004041",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f837"
+  },
+  "student_id": "20004115",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f838"
+  },
+  "student_id": "20004128",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f839"
+  },
+  "student_id": "20004023",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f83a"
+  },
+  "student_id": "20004081",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f83b"
+  },
+  "student_id": "20004181",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f83c"
+  },
+  "student_id": "20004076",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f83d"
+  },
+  "student_id": "20004039",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f83e"
+  },
+  "student_id": "20004247",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f83f"
+  },
+  "student_id": "20004049",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f840"
+  },
+  "student_id": "19004223",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f841"
+  },
+  "student_id": "19004203",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f842"
+  },
+  "student_id": "19004210",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f843"
+  },
+  "student_id": "19004156",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f844"
+  },
+  "student_id": "20004058",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f845"
+  },
+  "student_id": "20004231",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f846"
+  },
+  "student_id": "20004050",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f847"
+  },
+  "student_id": "20004158",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f848"
+  },
+  "student_id": "20004093",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f849"
+  },
+  "student_id": "20004095",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f84a"
+  },
+  "student_id": "19004176",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f84b"
+  },
+  "student_id": "19004234",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f84c"
+  },
+  "student_id": "20004015",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f84d"
+  },
+  "student_id": "19004201",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f84e"
+  },
+  "student_id": "19004139",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f84f"
+  },
+  "student_id": "20004153",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f850"
+  },
+  "student_id": "19004125",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f851"
+  },
+  "student_id": "17004004",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f852"
+  },
+  "student_id": "20004022",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+},
+{
+  "_id": {
+    "$oid": "64b895f89353e3d0efa4f853"
+  },
+  "student_id": "18004020",
+  "points": 0,
+  "hard_skills": " ",
+  "soft_skills": " ",
+  "notes": " "
+}]

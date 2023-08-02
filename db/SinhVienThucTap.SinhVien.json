@@ -1,0 +1,3644 @@
+[{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1cb"
+  },
+  "student_id": "B1910256",
+  "fullname": "Nguyễn Huỳnh Phương Mai",
+  "phone_number": "0326294427",
+  "email": "maib1910256@student.ctu.edu.vn",
+  "address": "Số 9 tổ 13, ấp An Thành Tây, xã Trung Hiếu, huyên Vũng Liêm, tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b640a82b69b1d34cef8802"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89826452396b621f57288"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1cc"
+  },
+  "student_id": "B1910263",
+  "fullname": "Chau Kim Ngân",
+  "phone_number": "0335211248",
+  "email": "nganb1910263@student.ctu.edu.vn",
+  "address": "số 101 tổ 1, ấp Tân Hiệp, xã Tân Lợi, huyện Tịnh Biên, tỉnh An Giang",
+  "major": {
+    "$oid": "64b640a82b69b1d34cef8802"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89826452396b621f57288"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1cd"
+  },
+  "student_id": "B1910164",
+  "fullname": "Kha Việt Trinh",
+  "phone_number": "0379756357",
+  "email": "trinhb1910164@student.ctu.edu.vn",
+  "address": "ấp Hồi Thọ xã Xuân Hiệp huyện Trà Ôn tỉnh Vĩnh Long.",
+  "major": {
+    "$oid": "64b640a82b69b1d34cef8802"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89826452396b621f57288"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1ce"
+  },
+  "student_id": "B1910352",
+  "fullname": "Lâm Ngọc Duy",
+  "phone_number": "0817400727",
+  "email": "duyb1910352@student.ctu.edu.vn",
+  "address": "Khóm 6, phường Tân Thành, TP Cà Mau, tỉnh Cà Mau",
+  "major": {
+    "$oid": "64b640a82b69b1d34cef8802"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89826452396b621f57288"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1cf"
+  },
+  "student_id": "B1910391",
+  "fullname": "Hồng Quốc Khánh",
+  "phone_number": "094142547",
+  "email": "khanhb1910391@student.ctu.edu.vn",
+  "address": "6 Lý Thường Kiệt, Phường 1, TP. Vĩnh Long",
+  "major": {
+    "$oid": "64b640d72b69b1d34cef8803"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89826452396b621f57288"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1d0"
+  },
+  "student_id": "B1910623",
+  "fullname": "Đặng Quốc Cường ",
+  "phone_number": "0819942106",
+  "email": "cuongb1910623@student.ctu.edu.vn",
+  "address": "Thị trấn Cây Dương, huyện Phụng Hiệp, tỉnh Hậu Giang",
+  "major": {
+    "$oid": "64b640d72b69b1d34cef8803"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89826452396b621f57288"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1d1"
+  },
+  "student_id": "B1908384",
+  "fullname": "Nguyễn Thị Lan Đài",
+  "phone_number": "0342898043",
+  "email": "daib1908384@student.ctu.edu.vn",
+  "address": "Ấp 1, xã Hòa Thạnh, huyện Tam Bình, tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89874452396b621f5728e"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1d2"
+  },
+  "student_id": "B1908367",
+  "fullname": "Nguyễn Thị Ngọc Trâm ",
+  "phone_number": "0379032467",
+  "email": "tramb1908367@student.ctu.edu.vn",
+  "address": "xã Tân Kiều, huyện Tháp Mười, Đồng Tháp",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89874452396b621f5728e"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1d3"
+  },
+  "student_id": "B1908392",
+  "fullname": "Nguyễn Ngọc Minh Khôi",
+  "phone_number": "0899682592",
+  "email": "khoib1908392@student.ctu.edu.vn",
+  "address": "Ấp An Hòa, xã Phú Đức, huyện Long Hồ - Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89874452396b621f5728e"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1d4"
+  },
+  "student_id": "B1908369",
+  "fullname": "Trương Thị Ngọc Trân",
+  "phone_number": "0889012588",
+  "email": "tranb1908369@student.ctu.edu.vn",
+  "address": "Ấp chợ,xã Mỹ An,Huyện Mang Thít,Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89874452396b621f5728e"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1d5"
+  },
+  "student_id": "B1910628",
+  "fullname": "Hồ Xuân Phương Đông",
+  "phone_number": "0774839113",
+  "email": "dongb1910628@student.ctu.edu.vn",
+  "address": "481/24, ấp Long Thuận A, xã Long Phước, huyện Long Hồ, tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b640d72b69b1d34cef8803"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89879452396b621f5728f"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1d6"
+  },
+  "student_id": "B1910611",
+  "fullname": "Lê Nguyễn Bảo Anh",
+  "phone_number": "0787988839",
+  "email": "anhb1910611@student.ctu.edu.vn",
+  "address": "Ấp Đục Dông, Xã Thiện Mỹ, Huyện Trà Ôn, Tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b640d72b69b1d34cef8803"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89879452396b621f5728f"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1d7"
+  },
+  "student_id": "B1910654",
+  "fullname": "Nguyễn Duy Khang",
+  "phone_number": "0349296581",
+  "email": "khangb1910654@student.ctu.edu.vn",
+  "address": "191/2A, Lò Rèn, Phường 4, Thành phố Vĩnh Long",
+  "major": {
+    "$oid": "64b640d72b69b1d34cef8803"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89879452396b621f5728f"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1d8"
+  },
+  "student_id": "B1910672",
+  "fullname": "Nguyễn Hiếu Nghĩa",
+  "phone_number": "0773856988",
+  "email": "nghiab1910672@student.ctu.edu.vn",
+  "address": "1661, tổ 6, ấp Thuận Phú A, Thuận An, Bình Minh, Vĩnh Long",
+  "major": {
+    "$oid": "64b640d72b69b1d34cef8803"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89879452396b621f5728f"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1d9"
+  },
+  "student_id": "B1909907",
+  "fullname": "Danh Bé Hai",
+  "phone_number": "0977511560",
+  "email": "haib1909907@student.ctu.edu.vn",
+  "address": "Kênh Lục Đông, Khu phố 2, Thị trấn Thứ Ba, Huyện An Biên, Tỉnh Kiên Giang",
+  "major": {
+    "$oid": "64b640d72b69b1d34cef8803"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89879452396b621f5728f"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1da"
+  },
+  "student_id": "B1913330",
+  "fullname": "Trần Anh Phương",
+  "phone_number": "0939599475",
+  "email": "phuongb1913330@student.ctu.edu.vn",
+  "address": "Thị Trấn Thới Lai, Huyện Thới Lai, Thành Phố Cần Thơ",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b8981a452396b621f57287"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1db"
+  },
+  "student_id": "B1913266",
+  "fullname": "Nguyễn Tuấn Thanh",
+  "phone_number": "0972227890",
+  "email": "thanhb1913266@student.ctu.edu.vn ",
+  "address": "Thị trấn Vĩnh Thạnh, huyện Vĩnh Thạnh, thành phố Cần Thơ",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b8981a452396b621f57287"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1dc"
+  },
+  "student_id": "B1913307",
+  "fullname": "Lê Duy Khang",
+  "phone_number": "0347228492",
+  "email": "khangB1913307@student.ctu.edu.vn",
+  "address": "283 Trương Công Định, khóm 4, phường 2, Thành phố Sóc Trăng",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b8981a452396b621f57287"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1dd"
+  },
+  "student_id": "B1913263",
+  "fullname": "Nguyễn Hữu Tài",
+  "phone_number": "0786976643",
+  "email": "taib1913263@student.ctu.edu.vn",
+  "address": "Ấp Nhơn Khánh, Xã Nhơn Nghĩa, Huyện Phong Điền, TP. Cần Thơ",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b8981a452396b621f57287"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1de"
+  },
+  "student_id": "B1913313",
+  "fullname": "Nguyễn Trung Kiệt",
+  "phone_number": "0395334385",
+  "email": "kietb1913313@student.ctu.edu.vn",
+  "address": "1120, Khu Phố 2, Phường Vĩnh Thông, TP.Rạch Giá, Kiên Giang",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b8981a452396b621f57287"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1df"
+  },
+  "student_id": "B1910536",
+  "fullname": "Nguyễn Tuấn Kiệt",
+  "phone_number": "0931091211",
+  "email": "kietB1910536@student.ctu.edu.vn",
+  "address": "Ấp Gò Tranh, xã Vĩnh Xuân, huyện Trà Ôn, tỉnh Vĩnh Long.",
+  "major": {
+    "$oid": "64b640a82b69b1d34cef8802"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89851452396b621f5728c"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1e0"
+  },
+  "student_id": "B1910563",
+  "fullname": "Trần Quốc Phong ",
+  "phone_number": "0706746893",
+  "email": "phongb1910563@student.ctu.edu.vn",
+  "address": "Ấp  thạnh lợi 2, xã trung hưng, huyện cờ đỏ,TP Cần Thơ",
+  "major": {
+    "$oid": "64b640a82b69b1d34cef8802"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89851452396b621f5728c"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1e1"
+  },
+  "student_id": "B1908398",
+  "fullname": "Dương Kim Ngân",
+  "phone_number": "0899457019",
+  "email": "nganb1908398@student.ctu.edu.vn",
+  "address": "Khu vực 3, An Khánh, Ninh Kiều, Cần Thơ",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89851452396b621f5728c"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1e2"
+  },
+  "student_id": "B1910607",
+  "fullname": "Nguyễn Huỳnh Yên",
+  "phone_number": "0945190755",
+  "email": "yenb1910607@student.ctu.edu.vn",
+  "address": "huyện U Minh_Cà Mau",
+  "major": {
+    "$oid": "64b640a82b69b1d34cef8802"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89851452396b621f5728c"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1e3"
+  },
+  "student_id": "B1910522",
+  "fullname": "Châu Trí Hỷ",
+  "phone_number": "0845090901",
+  "email": "hyb1910522@student.ctu.edu.vn",
+  "address": "Khu 3, ấp Nội Ô, thị trấn Ngan Dừa, huyện Hồng Dân, tỉnh Bạc Liêu",
+  "major": {
+    "$oid": "64b640a82b69b1d34cef8802"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89851452396b621f5728c"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1e4"
+  },
+  "student_id": "B1908382",
+  "fullname": "Đặng Hữu Đình Duy",
+  "phone_number": "0926689991",
+  "email": "duyb1908382@student.ctu.edu.vn",
+  "address": "Tân Quới Hưng, Trường An, TP Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89851452396b621f5728c"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1e5"
+  },
+  "student_id": "B1908358",
+  "fullname": "Lê Anh Thi",
+  "phone_number": "0706411439",
+  "email": "thib1908358@student.ctu.edu.vn",
+  "address": "Ấp Mỹ Phó, xã Thiện Mỹ, huyện Trà Ôn, tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89846452396b621f5728a"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1e6"
+  },
+  "student_id": "B1908336",
+  "fullname": "Nguyễn Thị Kim Long",
+  "phone_number": "0334694613",
+  "email": "longb1908336@student.ctu.edu.vn",
+  "address": "Ấp 1 xã Vĩnh Bình,huyện Vĩnh Hưng,Long An",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89846452396b621f5728a"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1e7"
+  },
+  "student_id": "B1908319",
+  "fullname": "Nguyễn Lê Bảo Anh",
+  "phone_number": "0762975500",
+  "email": "anhb1908319@student.ctu.edu.vn",
+  "address": "Ấp Tân Thới, xã Tân Bình ,huyện Bình Tân , tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89846452396b621f5728a"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1e8"
+  },
+  "student_id": "B1910128",
+  "fullname": "Đoàn Minh Quang",
+  "phone_number": "0346649229",
+  "email": "quangb1910128@student.ctu.edu.vn",
+  "address": "Ấp 14, xã Long Trung, Cai Lậy, Tiền Giang",
+  "major": {
+    "$oid": "64b640a82b69b1d34cef8802"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89846452396b621f5728a"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1e9"
+  },
+  "student_id": "B1910437",
+  "fullname": "Võ Phước Qui ",
+  "phone_number": "0329673749",
+  "email": "quib1910437@student.ctu.edu.vn",
+  "address": "Ấp Tắc Thủ, xã Hồ Thị Kỷ, Thới Bình, Cà Mau",
+  "major": {
+    "$oid": "64b640a82b69b1d34cef8802"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89846452396b621f5728a"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1ea"
+  },
+  "student_id": "B1910731",
+  "fullname": "Lê Hải Yến",
+  "phone_number": "0911431625",
+  "email": "yenb1910731@student.ctu.edu.vn",
+  "address": "C101A Trần Khánh Dư, phường Xuân Khánh, quận Ninh Kiều, Cần Thơ",
+  "major": {
+    "$oid": "64b640d72b69b1d34cef8803"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89846452396b621f5728a"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1eb"
+  },
+  "student_id": "B1909917",
+  "fullname": "Đậu Hữu Hoàng",
+  "phone_number": "0392705701",
+  "email": "hoangb1900017@student.ctu.edu.vn",
+  "address": "Ấp 4, xã Thới Hưng, huyện Cờ Đỏ, Cần Thơ",
+  "major": {
+    "$oid": "64b640a82b69b1d34cef8802"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b8984c452396b621f5728b"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1ec"
+  },
+  "student_id": "B1910438",
+  "fullname": "Nguyễn Kiến Quốc",
+  "phone_number": "0947409979",
+  "email": "quocb1910438@student.ctu.edu.vn",
+  "address": "Ấp 2, xã Thới Hưng, huyện Cờ Đỏ, Cần Thơ",
+  "major": {
+    "$oid": "64b640a82b69b1d34cef8802"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b8984c452396b621f5728b"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1ed"
+  },
+  "student_id": "B1909889",
+  "fullname": "Bành Anh Duy",
+  "phone_number": "0386924941",
+  "email": "duyb1909889@student.ctu.edu.vn",
+  "address": "187/6 Trần Vĩnh Kiết , phường An Bình , Quận Ninh Kiều , TP Cần Thơ",
+  "major": {
+    "$oid": "64b640a82b69b1d34cef8802"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b8984c452396b621f5728b"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1ee"
+  },
+  "student_id": "B1910723",
+  "fullname": "Nguyễn Thanh Tú",
+  "phone_number": "0928240242",
+  "email": "tub1910723@student.ctu.edu.vn",
+  "address": "379, ấp Tân Đông, huyện Thoại Sơn, An Giang",
+  "major": {
+    "$oid": "64b640a82b69b1d34cef8802"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b8984c452396b621f5728b"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1ef"
+  },
+  "student_id": "B1910719",
+  "fullname": "Mai Nguyễn Bảo Trân",
+  "phone_number": "0376334722",
+  "email": "tranb1910719@student.ctu.edu.vn",
+  "address": "065, kv Thạnh Mỹ, phường Thường Thạnh, quận Cái Răng, TPCT",
+  "major": {
+    "$oid": "64b640d72b69b1d34cef8803"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b8984c452396b621f5728b"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1f0"
+  },
+  "student_id": "B1910697",
+  "fullname": "Nguyễn Trung Tâm",
+  "phone_number": "0855591409",
+  "email": "tamb1910697@student.ctu.edu.vn",
+  "address": "35, Khu vực Thới Phong A, Phường Thới An, Quận Ô Môn, TP Cần Thơ",
+  "major": {
+    "$oid": "64b640d72b69b1d34cef8803"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89857452396b621f5728d"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1f1"
+  },
+  "student_id": "B1910700",
+  "fullname": "Phan Minh Tân",
+  "phone_number": "0367700679",
+  "email": "tanb1910700@student.ctu.edu.vn",
+  "address": "125, đường Ngô Quyền, phường Cái Vồn, thị xã Bình Minh, tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b640d72b69b1d34cef8803"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89857452396b621f5728d"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1f2"
+  },
+  "student_id": "B1910680",
+  "fullname": "Lê Huỳnh Như",
+  "phone_number": "0328093414",
+  "email": "nhub1910680@student.ctu.edu.vn",
+  "address": "117 Hoàng Văn Thụ, Phường An Cư, Quận Ninh Kiều, Cần Thơ",
+  "major": {
+    "$oid": "64b640d72b69b1d34cef8803"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89857452396b621f5728d"
+  },
+  "createdAt": 1689816527,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1f3"
+  },
+  "student_id": "B1910711",
+  "fullname": "Bùi Tiến Thông",
+  "phone_number": "0708593248",
+  "email": "thongb1910711@student.ctu.edu.vn",
+  "address": "222 KVII, Ba Láng, Cái Răng, Cần Thơ",
+  "major": {
+    "$oid": "64b640d72b69b1d34cef8803"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89857452396b621f5728d"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1f4"
+  },
+  "student_id": "B1910411",
+  "fullname": "Nguyễn Thị Huế Minh",
+  "phone_number": "0389943552",
+  "email": "minhb1910411@student.ctu.edu.vn",
+  "address": "Ấp 6b, xã Long Phú, Tam Bình, Vĩnh Long",
+  "major": {
+    "$oid": "64b640a82b69b1d34cef8802"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63e7f2b69b1d34cef87f6"
+  },
+  "intern_group": {
+    "$oid": "64b89857452396b621f5728d"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72ebc66b8b9ce8f2be1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1f5"
+  },
+  "student_id": "1",
+  "fullname": "Đỗ Thị Anh Thư",
+  "phone_number": "0344852084",
+  "email": "none@st.vlute.edu.vn",
+  "address": "Ấp 4, xã Tân An Luông, huyện Vũng Liêm, tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "64b89496a80390662363c19e"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1f6"
+  },
+  "student_id": "2",
+  "fullname": "Lê Thị Cẩm Tú",
+  "phone_number": "0989720654",
+  "email": "none@st.vlute.edu.vn",
+  "address": "Ấp 6, xã Phú An, huyện Cai Lậy, tỉnh Tiền Giang",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "65b89496a80390662363c19e"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1f7"
+  },
+  "student_id": "3",
+  "fullname": "Nguyễn Ngọc Khánh Ly",
+  "phone_number": "0853865913",
+  "email": "none@st.vlute.edu.vn",
+  "address": "Ấp Phước Yên B, xã Phú Quới, huyện Long Hồ, tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "66b89496a80390662363c19e"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1f8"
+  },
+  "student_id": "4",
+  "fullname": "Nguyễn Thị Thanh Ngân",
+  "phone_number": "0769393193",
+  "email": "none@st.vlute.edu.vn",
+  "address": "Ấp Tường Tín, xã Thới Hòa, huyện Trà Ôn, tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "67b89496a80390662363c19e"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1f9"
+  },
+  "student_id": "5",
+  "fullname": "Trần Tấn Hưng",
+  "phone_number": "0358146742",
+  "email": "none@st.vlute.edu.vn",
+  "address": "310/TP, ấp Tân Phước, xã Tân Thủy, huyện Ba Tri, tỉnh Bến Tre",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 43,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "64b8948ba80390662363c19d"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1fa"
+  },
+  "student_id": "6",
+  "fullname": "Lê Vũ Hải",
+  "phone_number": "0332028463",
+  "email": "none@st.vlute.edu.vn",
+  "address": "24A, phường 8, Thành phố Vĩnh Long",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 43,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "65b8948ba80390662363c19d"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1fb"
+  },
+  "student_id": "7",
+  "fullname": "Huỳnh Dương Tuấn Thanh",
+  "phone_number": "0382493170",
+  "email": "none@st.vlute.edu.vn",
+  "address": "Ấp 4A, An Trường, Càng Long, Trà Vinh",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "66b8948ba80390662363c19d"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1fc"
+  },
+  "student_id": "8",
+  "fullname": "Nguyễn Hùng Cường",
+  "phone_number": "0776865649",
+  "email": "none@st.vlute.edu.vn",
+  "address": "39/13A Trần Phú, khóm 5, phường 4, TPVL, tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 43,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "67b8948ba80390662363c19d"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1fd"
+  },
+  "student_id": "9",
+  "fullname": "Nguyễn Minh Tân",
+  "phone_number": "0939306465",
+  "email": "none@st.vlute.edu.vn",
+  "address": "51 Phạm Hùng, Phường 2, TP Vĩnh Long, Vĩnh Long",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "64b89489a80390662363c19c"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1fe"
+  },
+  "student_id": "10",
+  "fullname": "Quang Phúc Cường",
+  "phone_number": "0523173909",
+  "email": "none@st.vlute.edu.vn",
+  "address": "10/50, Phạm Hùng, P. 9, Tp. Vĩnh Long, Vĩnh Long",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "64b89489a80390662363c19c"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f1ff"
+  },
+  "student_id": "11",
+  "fullname": "Nguyễn Trung Sơn",
+  "phone_number": "0773872013",
+  "email": "none@st.vlute.edu.vn",
+  "address": "Ấp Sơn Đông, Thanh Đức, Long Hồ, Vĩnh Long",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "64b89485a80390662363c19b"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f200"
+  },
+  "student_id": "12",
+  "fullname": "Cao Thành Đạt",
+  "phone_number": "0704971987",
+  "email": "none@st.vlute.edu.vn",
+  "address": "12A, Cao Thắng, P. 8, Tp. Vĩnh Long, Vĩnh Long",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "64b89485a80390662363c19b"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f201"
+  },
+  "student_id": "13",
+  "fullname": "Huỳnh Ngọc Cẩm Nhung",
+  "phone_number": "0765925579",
+  "email": "none@st.vlute.edu.vn",
+  "address": "Ấp 3, Hòa Thạnh, Tam Bình, Vĩnh Long",
+  "major": {
+    "$oid": "64b640a82b69b1d34cef8802"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "64b89476a80390662363c19a"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f202"
+  },
+  "student_id": "14",
+  "fullname": "Huỳnh Vĩnh Phúc",
+  "phone_number": "0975319991",
+  "email": "none@st.vlute.edu.vn",
+  "address": "Ấp 3, Hòa Thạnh, Tam Bình, Vĩnh Long",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "65b89476a80390662363c19a"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f203"
+  },
+  "student_id": "15",
+  "fullname": "Ngô Hoàng Gia Khang",
+  "phone_number": "0963320226",
+  "email": "none@st.vlute.edu.vn",
+  "address": "Ấp Vĩnh Lộc 2, Tân Thuận, Vĩnh Thuận, Kiên Giang",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "66b89476a80390662363c19a"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f204"
+  },
+  "student_id": "16",
+  "fullname": "Lê Phạm Bích Ngân",
+  "phone_number": "0932835759",
+  "email": "none@st.vlute.edu.vn",
+  "address": "Ấp Thanh Bình, xã Tân Long, huyện Mang Thít, tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "67b89476a80390662363c19a"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f205"
+  },
+  "student_id": "17",
+  "fullname": "Nguyễn Thị Cẩm Tuyến",
+  "phone_number": "0703736949",
+  "email": "none@st.vlute.edu.vn",
+  "address": "Ấp Hòa Lợi, xã Hòa Ninh, huyện Long Hồ, Tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "68b89476a80390662363c19a"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f206"
+  },
+  "student_id": "18",
+  "fullname": "Nguyễn Thành Tươi",
+  "phone_number": "0923887710",
+  "email": "none@st.vlute.edu.vn",
+  "address": "Ấp 4, Tân An Luông, Vũng Liêm, Vĩnh Long",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "64b89474a80390662363c199"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f207"
+  },
+  "student_id": "19",
+  "fullname": "Nguyễn Ngọc Tân",
+  "phone_number": "0899031395",
+  "email": "none@st.vlute.edu.vn",
+  "address": "Ấp Phú Thuận 1, Đồng Phú, Long Hồ, Vĩnh Long",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "64b89474a80390662363c199"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f208"
+  },
+  "student_id": "20",
+  "fullname": "Nguyễn Thanh Nhựt",
+  "phone_number": "0982457137",
+  "email": "none@st.vlute.edu.vn",
+  "address": "Ấp Gò Ân, Tân An Luông, Vũng Liêm, Vĩnh Long",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "64b89474a80390662363c199"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f209"
+  },
+  "student_id": "21",
+  "fullname": "Nguyễn Văn Thành",
+  "phone_number": "0386541287",
+  "email": "none@st.vlute.edu.vn",
+  "address": "Rạch Cốc, Tân An Luông, Vũng Liêm, Vĩnh Long",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "64b89474a80390662363c199"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f20a"
+  },
+  "student_id": "22",
+  "fullname": "Nguyễn Nhựt Thiên",
+  "phone_number": "0776155130",
+  "email": "none@st.vlute.edu.vn",
+  "address": "106A, Mỹ Thuận, Tân Hội, Tp. Vĩnh Long, Vĩnh Long",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "68b89476a80390662363c19a"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f20b"
+  },
+  "student_id": "23",
+  "fullname": "Trần Thảo Bình",
+  "phone_number": "0912766580",
+  "email": "none@st.vlute.edu.vn",
+  "address": "67/5 Ấp Thanh Đức, Long Hồ Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "64b89468a80390662363c198"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f20c"
+  },
+  "student_id": "24",
+  "fullname": "Mai Xuân Tiến",
+  "phone_number": "0796909411",
+  "email": "none@st.vlute.edu.vn",
+  "address": "52/1/40 Nguyễn Huệ ,Phường 2 , TP.Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "64b89468a80390662363c198"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f20d"
+  },
+  "student_id": "25",
+  "fullname": "Nguyễn Ngọc Thành Phú",
+  "phone_number": "0907156910",
+  "email": "none@st.vlute.edu.vn",
+  "address": "195 B Khóm 5 Phường 9 , Tp.Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "64b89468a80390662363c198"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f20e"
+  },
+  "student_id": "26",
+  "fullname": "Nguyễn Quốc Kiệt",
+  "phone_number": "0387413856",
+  "email": "none@st.vlute.edu.vn",
+  "address": "Xã Hựu Thành , Huyện Trà Ôn , Tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "64b89468a80390662363c198"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f20f"
+  },
+  "student_id": "27",
+  "fullname": "Phan Thành Đạt",
+  "phone_number": "0795862219",
+  "email": "none@st.vlute.edu.vn",
+  "address": "50/14A, Khóm 2, phường 3, Tp.Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "64b89468a80390662363c198"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f210"
+  },
+  "student_id": "28",
+  "fullname": "Dương Hoàng Lợi",
+  "phone_number": "0962607074",
+  "email": "none@st.vlute.edu.vn",
+  "address": "Ấp Hòa Lợi, xã Hòa Ninh, huyện Long Hồ, Tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "64b89468a80390662363c198"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f211"
+  },
+  "student_id": "29",
+  "fullname": "Lê Nguyễn Quốc Đạt",
+  "phone_number": "0704933342",
+  "email": "none@st.vlute.edu.vn",
+  "address": "97B/8 An Phú A, Long An, Long Hồ, Vĩnh Long",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "64b89465a80390662363c197"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f212"
+  },
+  "student_id": "30",
+  "fullname": "Nguyễn Hoàng Tuấn Anh",
+  "phone_number": "0939044510",
+  "email": "none@st.vlute.edu.vn",
+  "address": "41/8K Cao Thắng, Phường 8, Thành Phố Vĩnh Long",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "64b89465a80390662363c197"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f213"
+  },
+  "student_id": "31",
+  "fullname": "Đỗ Đoàn Lập Thuận",
+  "phone_number": "0794355704",
+  "email": "none@st.vlute.edu.vn",
+  "address": "66/23E, đường 14 tháng 9, phường 5, thành phố Vĩnh Long",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "64b89465a80390662363c197"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f214"
+  },
+  "student_id": "32",
+  "fullname": "Trần Gia Bảo",
+  "phone_number": "0916936415",
+  "email": "none@st.vlute.edu.vn",
+  "address": "Tổ 8, ấp Hòa, xã Hòa Hưng, huyện Cái Bè , tỉnh Tiền Giang",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "64b89465a80390662363c197"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f215"
+  },
+  "student_id": "33",
+  "fullname": "Phan Ngọc Dung",
+  "phone_number": "0869646472",
+  "email": "none@st.vlute.edu.vn",
+  "address": "160A Nguyễn Văn Lâu Khóm 5 Phường 8 Thành phố Vĩnh Long",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "64b89442a80390662363c195"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f216"
+  },
+  "student_id": "34",
+  "fullname": "Đặng Ngọc Loan Anh",
+  "phone_number": "0704537608",
+  "email": "none@st.vlute.edu.vn",
+  "address": "288/16 Long Thuận A Long Phước Long Hồ Vĩnh Long ",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "64b89442a80390662363c195"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f217"
+  },
+  "student_id": "35",
+  "fullname": "Lê Thị Mỹ Huyền",
+  "phone_number": "0937751884",
+  "email": "none@st.vlute.edu.vn",
+  "address": "B57 Đinh Tiên Hoàng Phường 8 tp Vĩnh Long, tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "64b89442a80390662363c195"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f218"
+  },
+  "student_id": "36",
+  "fullname": "Nguyễn Minh Hiếu",
+  "phone_number": "0901338149",
+  "email": "none@st.vlute.edu.vn",
+  "address": "146/11, Phước Lợi A, Long Phước, Long Hồ, Vĩnh Long",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "64b89442a80390662363c195"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f219"
+  },
+  "student_id": "37",
+  "fullname": "Nguyễn Tuấn Anh",
+  "phone_number": "0797786867",
+  "email": "none@st.vlute.edu.vn",
+  "address": "54/6H, Phạm Hùng, Phường 2, TP Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "64b89455a80390662363c196"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f21a"
+  },
+  "student_id": "38",
+  "fullname": "Dương Trang Thảo Nguyên",
+  "phone_number": "0799635667",
+  "email": "none@st.vlute.edu.vn",
+  "address": "245 ấp An Hiệp xã Lộc Hoà huyện Long Hồ tĩnh Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "64b89455a80390662363c196"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f21b"
+  },
+  "student_id": "39",
+  "fullname": "Trịnh Hoài Phong",
+  "phone_number": "0776513223",
+  "email": "none@st.vlute.edu.vn",
+  "address": "9c, Tân Thuận An ,Tân Ngãi, Thành Phố Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "64b89455a80390662363c196"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f21c"
+  },
+  "student_id": "40",
+  "fullname": "Nguyễn Trần Quốc Bảo",
+  "phone_number": "0834637658",
+  "email": "none@st.vlute.edu.vn",
+  "address": "125C, Tân Hưng, Tân Hoà, Thành Phố Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "64b89455a80390662363c196"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f21d"
+  },
+  "student_id": "41",
+  "fullname": "Ngô Thanh Tín ",
+  "phone_number": "0778109631",
+  "email": "none@st.vlute.edu.vn",
+  "address": "170 Tổ 3A Khóm Tân Xuân,Phường  Tân Ngãi, TP.Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "64b89455a80390662363c196"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f21e"
+  },
+  "student_id": "42",
+  "fullname": "Nguyễn Ngọc Duy Minh",
+  "phone_number": "0792608576",
+  "email": "none@st.vlute.edu.vn",
+  "address": "ấp Phú Hữu Đông, xã Phú Thịnh, huyện Tam Bình, tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": {
+    "$oid": "64b89455a80390662363c196"
+  },
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72e7b66b8b9ce8f2be1b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f21f"
+  },
+  "student_id": "20004244",
+  "fullname": "Trần Linh Tùng",
+  "phone_number": "0819858104",
+  "email": "20004244@st.vlute.edu.vn",
+  "address": "69 Phó Cơ Điều, phường 3, TP Vĩnh Long, tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f220"
+  },
+  "student_id": "20004052",
+  "fullname": "Lê Quốc Huy",
+  "phone_number": "0354458863",
+  "email": "20004052@st.vlute.edu.vn",
+  "address": "Mỹ cẩm,Càng long,Trà Vinh",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f221"
+  },
+  "student_id": "20004148",
+  "fullname": "Phan Hồng Phú ",
+  "phone_number": "0706405618",
+  "email": "20004148@st.vlute.edu.vn",
+  "address": "Tân Thới, Tân Hạnh,Long Hồ,Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f222"
+  },
+  "student_id": "20004019",
+  "fullname": "Trần Thanh Đạt ",
+  "phone_number": "0823040712",
+  "email": "20004019@st.vlute.edu.vn ",
+  "address": "69 Phó Cơ Điều, phường 3, TP Vĩnh Long, tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f223"
+  },
+  "student_id": "20004179",
+  "fullname": "Nguyễn Duy Tân",
+  "phone_number": "0896489239",
+  "email": "20004179@st.vlute.edu.vn ",
+  "address": "Ấp Phú Thạnh 2, xã Đồng Phú, huyện Long Hồ, tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f224"
+  },
+  "student_id": "20004124",
+  "fullname": "Võ Hoàng Nhân",
+  "phone_number": "0949702002",
+  "email": "20004124@st.vlute.edu.vn",
+  "address": "59/6E, Khóm 3, Phường 3, Thành phố Vĩnh Long, Vĩnh Long",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f225"
+  },
+  "student_id": "20004097",
+  "fullname": "Cù Văn Lộc",
+  "phone_number": "0981734540",
+  "email": "20004097@st.vlute.edu.vn",
+  "address": "Cái Tranh,Mỹ Phước, Mang Thít, Vĩnh Long ",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f226"
+  },
+  "student_id": "20004129",
+  "fullname": "Lê Thành Nhẩn",
+  "phone_number": "0366998934",
+  "email": "20004129@st.vlute.edu.vn",
+  "address": "Phú Quới, Long Hồ, Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f227"
+  },
+  "student_id": "20004175",
+  "fullname": "Vũ Thanh Tài",
+  "phone_number": "0373086621",
+  "email": "20004175@st.vlute.edu.vn",
+  "address": "18/2C, Khóm 1, Phường 3, TP. Vĩnh Long, Tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f228"
+  },
+  "student_id": "20004185",
+  "fullname": "Nguyễn Hiếu Thắng",
+  "phone_number": "0932909942",
+  "email": "20004185@st.vlute.edu.vn",
+  "address": "Mỹ Phú 5, Tường Lộc, Tam Bình, Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f229"
+  },
+  "student_id": "20004042",
+  "fullname": "Nguyễn Thị Ngọc Hân ",
+  "phone_number": "0984580619",
+  "email": "20004042@st.vlute.edu.vn",
+  "address": "68A, Khóm 2, Phường 3, Thành phố Vĩnh Long, Vĩnh Long ",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f22a"
+  },
+  "student_id": "20004013",
+  "fullname": "Phạm Thế Chiêu",
+  "phone_number": "0378701906",
+  "email": "20004013@st.vlute.edu.vn",
+  "address": "246D Nguyễn Văn Lâu, Phường 8, Thành phố Vĩnh Long",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f22b"
+  },
+  "student_id": "20004145",
+  "fullname": "Lê Thanh Phong",
+  "phone_number": "0394684844",
+  "email": "20004145@st.vlute.edu.vn",
+  "address": "ĐỊnh Thới A, An Phước, Mang Thít, Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f22c"
+  },
+  "student_id": "20004070",
+  "fullname": "Nguyễn Phúc Khánh",
+  "phone_number": "0783925326",
+  "email": "20004070@st.vlute.edu.vn",
+  "address": "41/3, ấp Phú An 1, xã Bình Hoà Phước, huyện Long Hồ, tỉnh Vĩnh Log",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f22d"
+  },
+  "student_id": "20004007",
+  "fullname": "Trương Gia Bảo",
+  "phone_number": "0907672800",
+  "email": "20004007@st.vlute.edu.vn",
+  "address": "Ấp 1, Xã Tân Thanh, Huyện Cái Bè, Tỉnh Tiền Giang",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f22e"
+  },
+  "student_id": "20004029",
+  "fullname": "Trương Hoàng Dương",
+  "phone_number": "0705050408",
+  "email": "20004029@st.vlute.edu.vn",
+  "address": "157/11/19 Khóm 6 phường 5 Thành Phố  Vĩnh Long Tỉnh VĨnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f22f"
+  },
+  "student_id": "20004100",
+  "fullname": "Lạc Minh Luân",
+  "phone_number": "0813060553",
+  "email": "20004100@st.vlute.edu.vn",
+  "address": "ấp hòa thạnh 2 , xã Thạnh Quới ,huyện Long Hồ , tỉnh Vĩnh Long ",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f230"
+  },
+  "student_id": "20004059",
+  "fullname": "Trần Lâm Huy",
+  "phone_number": "0912534481",
+  "email": "200004059@st.vlute.edu.vn",
+  "address": "13/17, Khóm 1, Phường 3, Tp.Vĩnh Long",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f231"
+  },
+  "student_id": "20004046",
+  "fullname": "Châu Ngọc Hoa",
+  "phone_number": "0934787048",
+  "email": "20004046@st.vlute.edu.vn",
+  "address": "Hòa Tịnh, Mang Thít, Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f232"
+  },
+  "student_id": "20004106",
+  "fullname": "Lương Hoàng Nam",
+  "phone_number": "0904409453",
+  "email": "20004106@st.vlute.edu.vn",
+  "address": "ấp phú thạnh b,xã nhơn phú ,huyện Mang Thít,tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f233"
+  },
+  "student_id": "20004135",
+  "fullname": "Trần Thị Hồng Nhung ",
+  "phone_number": "0795909756",
+  "email": "20004135@st.vlute.edu.vn",
+  "address": "ấp Ngãi Hòa, xã Hòa Bình, huyện Trà Ôn, tỉnh Vĩnh Long ",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f234"
+  },
+  "student_id": "20004212",
+  "fullname": "Lê Thị Kim Thủy ",
+  "phone_number": "0382340528",
+  "email": "20004212@st.vlute.edu.vn",
+  "address": "ấp Phú An 1 , xã Bình Hoà Phước, huyện Long Hồ,tỉnh Vĩnh Long ",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f235"
+  },
+  "student_id": "20004121",
+  "fullname": "Đặng Chí Nguyên",
+  "phone_number": "0794281413",
+  "email": "20004121@st.vlute.edu.vn",
+  "address": "ấp Đông Thạnh ,xã Ngãi Tứ ,huyện Tam Bình ,tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f236"
+  },
+  "student_id": "20004001",
+  "fullname": "Từ Nhân Ái",
+  "phone_number": "0976406154",
+  "email": "20004001@st.vlute.edu.vn",
+  "address": "ấp Giồng Đình, xã Đại An, huyện Trà Cú, tỉnh Trà Vinh",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f237"
+  },
+  "student_id": "20004161",
+  "fullname": "Nguyễn Phú Quí",
+  "phone_number": "0979380562",
+  "email": "20004161@st.vlute.edu.vn",
+  "address": "ấp An Hòa, xã Mỹ An, huyện Mang Thít, tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f238"
+  },
+  "student_id": "20004033",
+  "fullname": "Hà Nhật Duy",
+  "phone_number": "0706662370",
+  "email": "20004033@st.vlute.edu.vn",
+  "address": "Ấp An Điền, xã Trung Hiếu, huyện Vũng Liêm, Tỉnh Vĩnh Long.",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f239"
+  },
+  "student_id": "20004016",
+  "fullname": "Nguyễn Nhật Cường",
+  "phone_number": "0833041222",
+  "email": "20004016@st.vlute.edu.vn",
+  "address": "P.Cái Vồn, Thị xã Bình Minh, Vĩnh Long",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f23a"
+  },
+  "student_id": "20004193",
+  "fullname": "Đặng Võ Thanh Thảo",
+  "phone_number": "0789624877",
+  "email": "20004193@st.vlute.edu.vn",
+  "address": "Ấp Hiếu Thủ, Xã Hiếu Nhơn, Huyện Vũng Liêm, Tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f23b"
+  },
+  "student_id": "20004125",
+  "fullname": "Nguyễn Võ Hữu Nhân",
+  "phone_number": "0939628788",
+  "email": "20004125@st.vlute.edu.vn",
+  "address": "111/06/15 Phạm Thái Bường, Phường 4, Tp Vĩnh Long, Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f23c"
+  },
+  "student_id": "20004214",
+  "fullname": "Trương Mộc Tiền ",
+  "phone_number": "0868637223",
+  "email": "20004214@st.vlue.edu.vn",
+  "address": "Thị Trấn Cái Tàu Hạ, Châu Thành, Đồng Tháp ",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f23d"
+  },
+  "student_id": "20004017",
+  "fullname": "Huỳnh Hải Đăng",
+  "phone_number": "0939492324",
+  "email": "20004017@st.vlute.edu.vn",
+  "address": "42A,Cao Thắng,P8,TP Vĩnh Long",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f23e"
+  },
+  "student_id": "20004078",
+  "fullname": "Nguyễn Minh Khôi",
+  "phone_number": "0835777368",
+  "email": "20004078@st.vlue.edu.vn",
+  "address": "Ấp Mé Láng ,Xã Ngũ Lạc, Huyện Duyên Hải, Tỉnh Trà Vinh",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f23f"
+  },
+  "student_id": "20004223",
+  "fullname": "Văn Thị Mỹ Trang",
+  "phone_number": "0706386194",
+  "email": "20004223@st.vlute.edu.vn",
+  "address": "Ấp Hòa Thạnh, Xã An Phú Thuận, huyện Châu Thành, tỉnh Đồng Tháp",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f240"
+  },
+  "student_id": "20004107",
+  "fullname": "Trần Thị Phương Ngân ",
+  "phone_number": "0794949147",
+  "email": "20004107@st.vlute.edu.vn",
+  "address": "Khóm 4, TT Long Hồ, Vĩnh Long ",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f241"
+  },
+  "student_id": "20004034",
+  "fullname": "Hồ Thị Thúy Duy ",
+  "phone_number": "0824106576",
+  "email": "20004034@st.vlute.edu.vn",
+  "address": "ấp Phước Ninh, xã Phước Long, huyện Phước Long, tỉnh Bạc Liêu ",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f242"
+  },
+  "student_id": "20004027",
+  "fullname": "Trần Quốc Dũng",
+  "phone_number": "0367621957",
+  "email": "20004027@st.vlute.edu.vn",
+  "address": "Ấp 16, xã Long Hữu, tx Duyên Hải, tỉnh Trà Vinh",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f243"
+  },
+  "student_id": "20004246",
+  "fullname": "Nguyễn Anh Tuyên",
+  "phone_number": "0931898421",
+  "email": "20004246@st.vlute.edu.vn",
+  "address": "3/3 khóm 1 phường 3 thành phố vĩnh long, vĩnh long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f244"
+  },
+  "student_id": "20004168",
+  "fullname": "Phan Thanh Tú Quyên",
+  "phone_number": "0971643875",
+  "email": "20004168@st.vlute.edu.vn",
+  "address": "Ấp Phú Trường Yên, Song Phú,Tam Bình,Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f245"
+  },
+  "student_id": "20004222",
+  "fullname": "Nguyễn Hồ Quế Trân",
+  "phone_number": "0362077390",
+  "email": "20004222@st.vlute.edu.vn",
+  "address": "Áp Phú Hữu Đông, Phú Thịnh, Tam Bình, Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f246"
+  },
+  "student_id": "20004206",
+  "fullname": "Nguyễn Thành Thông",
+  "phone_number": "0794215180",
+  "email": "20004206@st.vlute..edu.vn",
+  "address": "khóm 3 Thị Trấn Mỹ An, huyện Tháp Mười, tỉnh Đồng Tháp ",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f247"
+  },
+  "student_id": "20004082",
+  "fullname": "Trần Thuý Kiều",
+  "phone_number": "0796558565",
+  "email": "20004082@st.vlute.edu.vn",
+  "address": "48A, khóm 3 Phường 9, thành phố Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f248"
+  },
+  "student_id": "20004066",
+  "fullname": "Nguyễn Phúc Khang",
+  "phone_number": "0919343156",
+  "email": "20004066@st.vlute.edu.vn",
+  "address": "ấp Mỹ Thạnh, xã Lục Sĩ Thành, huyện Trà Ôn, tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f249"
+  },
+  "student_id": "20004053",
+  "fullname": "Huỳnh Nhật Huy",
+  "phone_number": "0703974776",
+  "email": "20004053@st.vlute.edu.vn",
+  "address": "ấp Phú Lợi , xã Phú Thành , huyện Trà Ôn , tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f24a"
+  },
+  "student_id": "20004009",
+  "fullname": "Phan Thái Bảo",
+  "phone_number": "0376544802",
+  "email": "20004009@st.vlute.edu.vn",
+  "address": "Ấp An Hiệp, xã Long An, huyện Long Hồ, tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f24b"
+  },
+  "student_id": "20004041",
+  "fullname": "Đào Duy Hải",
+  "phone_number": "0981435310",
+  "email": "20004041@st.vlute.edu.vn",
+  "address": "367S/19 Ấp Long Thuận, xã Long Phước, huyện Long Hổ, tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f24c"
+  },
+  "student_id": "20004115",
+  "fullname": "Nguyễn Thanh Ngọc",
+  "phone_number": "0947655433",
+  "email": "20004115@st.vlute.edu.vn",
+  "address": "86A, đường Lò Rèn, Phường 4, Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f24d"
+  },
+  "student_id": "20004128",
+  "fullname": "Nguyễn Hữu Nhẫn",
+  "phone_number": "0356701150",
+  "email": "20004128@st.vlute.edu.vn",
+  "address": "Ấp Phú Thành, Xã Tân Phú, Huyện Tam Bình, Tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f24e"
+  },
+  "student_id": "20004023",
+  "fullname": "Nguyễn Thanh Điền",
+  "phone_number": "0939420864",
+  "email": "20004023@st.vlute.edu.vn",
+  "address": "Ấp 7, Xã Vị Đông, Huyện Vị Thủy, Tỉnh Hậu Giang",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f24f"
+  },
+  "student_id": "20004081",
+  "fullname": "Trần Tuấn Kiệt",
+  "phone_number": "0967048912",
+  "email": "20004081@st.vlute.edu.vn",
+  "address": "Ấp Long Thuận B, xã Long Phước ,huyện Long Hồ , tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f250"
+  },
+  "student_id": "20004181",
+  "fullname": "Trần Võ Kim Thạch",
+  "phone_number": "0586957654",
+  "email": "20004181@st.vlute.edu.vn",
+  "address": "53/6A khóm 2 phường 3 thành phố Vĩnh Long,tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f251"
+  },
+  "student_id": "20004076",
+  "fullname": "Phùng Minh Khôi",
+  "phone_number": "0567415739",
+  "email": "20004076@st.vlute.edu.vn",
+  "address": "16/17A khóm 1 phường 3 thành phố Vĩnh Long ",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f252"
+  },
+  "student_id": "20004039",
+  "fullname": "Nguyễn Văn Trường Giang",
+  "phone_number": "0782951950",
+  "email": "20004039@st.vlute.edu.vn",
+  "address": "423 Nguyễn Thiện Thuật, Tân An, An Hòa, thành phố Sa Đéc, tỉnh Đồng Tháp",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f253"
+  },
+  "student_id": "20004247",
+  "fullname": "Võ Minh Tuyến",
+  "phone_number": "0906260040",
+  "email": "20004247@st.vlute.edu.vn",
+  "address": "93 Nguyễn Du, Phường 1, Thành phố Vĩnh Long, tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f254"
+  },
+  "student_id": "20004049",
+  "fullname": "Lê Phước Hưng",
+  "phone_number": "0326356296",
+  "email": "20004049@st.vlute.edu.vn",
+  "address": "Ấp Xuân Lộc, xã Trung Thành, huyện Vũng Liêm, tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f255"
+  },
+  "student_id": "19004223",
+  "fullname": "Nông Nguyễn Bảo Trung",
+  "phone_number": "0774082908",
+  "email": "19004223@st.vlute.edu.vn",
+  "address": "ấp Bình Hoà 2, xã Bình Hoà Phước, huyện Long Hồ, tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f256"
+  },
+  "student_id": "19004203",
+  "fullname": "Phan Huỳnh Thanh Thư",
+  "phone_number": "0783837330",
+  "email": "19004203@st.vlute.edu.vn",
+  "address": "13/1 Hưng Quới - Thanh Đức - Long Hồ - Vĩnh Long",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f257"
+  },
+  "student_id": "19004210",
+  "fullname": "Nguyễn Hữu Tín",
+  "phone_number": "0931069288",
+  "email": "19004210@st.vlute.edu.vn",
+  "address": "ấp Phú An 1 , xã Bình Hoà Phước, huyện Long Hồ,tỉnh Vĩnh Long ",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f258"
+  },
+  "student_id": "19004156",
+  "fullname": "Đỗ Phú",
+  "phone_number": "0783524863",
+  "email": "19004156@st.vlute.edu.vn",
+  "address": "ấp Phước Bình B, xã Phú Quới, huyện Long Hồ, tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f259"
+  },
+  "student_id": "20004058",
+  "fullname": "Dương Vũ Huy ",
+  "phone_number": "0806676778",
+  "email": "20004058@st.vlute.edu.vn",
+  "address": "69/3h nguyễn chí thanh phường 5 thành phố Vĩnh Long ",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f25a"
+  },
+  "student_id": "20004231",
+  "fullname": "Nguyễn Đức Trọng",
+  "phone_number": "0915809400",
+  "email": "20004231@st.vlute.edu.vn",
+  "address": "Khóm 1, thị trấn Tam Bình, Tam Bình, Vĩnh Long",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f25b"
+  },
+  "student_id": "20004050",
+  "fullname": "Thái Hưng",
+  "phone_number": "0388030433",
+  "email": "20004050@st.vlute.edu.vn",
+  "address": "Khóm Tân Thuận, thị trấn Tân Quới, Bình Tân, Vĩnh Long",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f25c"
+  },
+  "student_id": "20004158",
+  "fullname": "Nguyễn Tấn Phước",
+  "phone_number": "0834002972",
+  "email": "20004158@st.vlute.edu.vn",
+  "address": "40/8c khóm 2 phường 3 Thành phố Vĩnh Long ",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f25d"
+  },
+  "student_id": "20004093",
+  "fullname": "Trần Hoàng Lộc",
+  "phone_number": "0939900613",
+  "email": "20004093@st.vlute.edu.vn",
+  "address": "249/4/7 Phạm Thái Bường Phường 4 Thành Phố Vĩnh Long",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f25e"
+  },
+  "student_id": "20004095",
+  "fullname": "Nguyễn Thanh Lộc",
+  "phone_number": "0946690114",
+  "email": "20004095@st.vlute.edu.vn",
+  "address": "275 Phạm Thái Bường Phường 4 Thành Phố Vĩnh Long",
+  "major": {
+    "$oid": "64b6413e2b69b1d34cef880b"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f25f"
+  },
+  "student_id": "19004176",
+  "fullname": "Đặng Thái Băng Tâm",
+  "phone_number": "0794201739",
+  "email": "19004176@st.vlute.edu.vn",
+  "address": "210 đường 8/3, Khóm 4, Phường 5, TP.Vĩnh Long",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f260"
+  },
+  "student_id": "19004234",
+  "fullname": "Phạm Kim Tuyền",
+  "phone_number": "0393514219",
+  "email": "19004234@st.vlute.edu.vn",
+  "address": "Ấp Hồi Thọ, Xã Xuân Hiệp, Huyện Trà Ôn, Tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f261"
+  },
+  "student_id": "20004015",
+  "fullname": "Nguyễn Quốc Cường",
+  "phone_number": "0396750514",
+  "email": "20004015@st.vlute.edu.vn",
+  "address": "Khóm 1, Phường Cái Vồn, Thị xã Bình Minh, Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f262"
+  },
+  "student_id": "19004201",
+  "fullname": "Nguyễn Ngọc Anh Thư",
+  "phone_number": "0896418798",
+  "email": "19004201@st.vlute.edu.vn",
+  "address": "Ấp Đông Phú, Xã Ngãi Tứ, Huyện Tam Bình, Tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f263"
+  },
+  "student_id": "19004139",
+  "fullname": "Nguyễn Danh Nhân",
+  "phone_number": "0398187316",
+  "email": "19004139@st.vlute.edu.vn",
+  "address": "Ấp Gia Kiết, xã Tân Mỹ, huyện Trà Ôn, tỉnh Vĩnh Long",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f264"
+  },
+  "student_id": "20004153",
+  "fullname": "Nguyễn Trần Hoàng Phúc",
+  "phone_number": "0907951936",
+  "email": "20004153@st.vlute.edu.vn",
+  "address": "Khóm 1, TTCN, Mang Thít, Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f265"
+  },
+  "student_id": "19004125",
+  "fullname": "Bùi Hữu Nghĩa",
+  "phone_number": "0865649918",
+  "email": "19004125@st.vlute.edu.vn",
+  "address": "Trần Phú, Phường 3, Vĩnh Long",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 44,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dcf7797199e8ac1f266"
+  },
+  "student_id": "17004004",
+  "fullname": "Trương Ngọc Anh",
+  "phone_number": "0928556914",
+  "email": "17004004@student.vlute.edu.vn",
+  "address": "18/6 khóm 5 phường 9 Thành phố Vĩnh Long",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 42,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dd07797199e8ac1f267"
+  },
+  "student_id": "20004022",
+  "fullname": "Lưu Thanh Đệ",
+  "phone_number": "0837473109",
+  "email": "20004022@st.vlute.edu.vn",
+  "address": "Thuận Phú B, xã Thuận An, Tx Bình Minh, Vĩnh Long",
+  "major": {
+    "$oid": "64b641572b69b1d34cef880c"
+  },
+  "course": 45,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b88dd07797199e8ac1f268"
+  },
+  "student_id": "18004020",
+  "fullname": "Nguyễn Tuấn Đỉnh",
+  "phone_number": "0925774237",
+  "email": "18004020@student.vlute.edu.vn",
+  "address": "Ấp Trung Hoà 2, xã Trung An, Vũng Liêm, Vĩnh Long",
+  "major": {
+    "$oid": "64b640fd2b69b1d34cef8805"
+  },
+  "course": 43,
+  "college": {
+    "$oid": "64b63f152b69b1d34cef87fb"
+  },
+  "intern_group": "",
+  "createdAt": 1689816528,
+  "internship": {
+    "$oid": "64b72eca66b8b9ce8f2be1b6"
+  }
+}]
