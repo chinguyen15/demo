@@ -6,3 +6,11 @@ services:
     command: uvicorn app.main:app --host 0.0.0.0 --port 10000 --workers 2
     ports:
       - 10000:10000
+    volumes:
+      - .:/code
+    depends_on:
+      - mongo
+  mongo:
+    image: mongo
+    ports:
+      - "27017:27017"
